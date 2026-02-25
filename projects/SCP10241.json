@@ -1,0 +1,116 @@
+{
+  "project_id": "SCP10241",
+  "project_type": "sewer",
+  "project_name": "Bethel Wastewater System Improvements",
+  "budget": {
+    "current_amount": 3000000,
+    "original_amount": 3000000,
+    "amendments": [
+      {
+        "date": "2025-03-15",
+        "previous_amount": 3000000,
+        "new_amount": 1191557,
+        "change_amount": -1808443
+      },
+      {
+        "date": "2025-04-15",
+        "previous_amount": 1191557,
+        "new_amount": 3000000,
+        "change_amount": 1808443
+      },
+      {
+        "date": "2025-07-15",
+        "previous_amount": 3000000,
+        "new_amount": 6000000,
+        "change_amount": 730464
+      },
+      {
+        "date": "2025-11-15",
+        "previous_amount": 6000000,
+        "new_amount": 3000000,
+        "change_amount": 233218
+      },
+      {
+        "date": "2025-12-26",
+        "previous_amount": 3000000,
+        "new_amount": 3424000,
+        "change_amount": 2816
+      },
+      {
+        "date": "2026-01-15",
+        "previous_amount": 3424000,
+        "new_amount": 3000000,
+        "change_amount": 2184
+      }
+    ]
+  },
+  "status": "completed",
+  "completion_target": "4/19/2021",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "polygon",
+    "centroid": [
+      35.807,
+      -77.378
+    ],
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [
+      "Bethel"
+    ],
+    "service_area_name": null,
+    "township": "Bethel",
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "high",
+    "geocoding_source": "known_landmark",
+    "geocoding_notes": "Landmark: Bethel"
+  },
+  "description": "Improvements to the wastewater system in Bethel.",
+  "contractor": null,
+  "first_seen": "2025-01-15",
+  "last_updated": "2026-01-15",
+  "meeting_references": [
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": null,
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "discussed",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    }
+  ]
+}

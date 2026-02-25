@@ -1,0 +1,56 @@
+{
+  "project_id": "FCP10245",
+  "project_type": "facility",
+  "project_name": "Admin HVAC Upgrades Project",
+  "budget": {
+    "current_amount": 2500000,
+    "original_amount": 3500000,
+    "amendments": [
+      {
+        "date": "2025-09-15",
+        "previous_amount": 3500000,
+        "new_amount": 2500000,
+        "change_amount": -1000000
+      }
+    ]
+  },
+  "status": "in_progress",
+  "completion_target": "6/30/2026",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": [
+      35.605,
+      -77.375
+    ],
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [
+      "Administration Building"
+    ],
+    "service_area_name": null,
+    "township": "Greenville",
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "high",
+    "geocoding_source": "known_landmark",
+    "geocoding_notes": "Landmark: Administration Building"
+  },
+  "description": "The Admin HVAC Upgrades Project aims to modernize and replace outdated air conditioning, heating, ventilation, and mechanical equipment and controls for the 2nd and 3rd floors of the Administration Building.",
+  "contractor": "Muter Construction, LLC",
+  "first_seen": "2025-08-15",
+  "last_updated": "2025-09-15",
+  "meeting_references": [
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "approved",
+      "source_file": "2025-09-15.json"
+    }
+  ]
+}

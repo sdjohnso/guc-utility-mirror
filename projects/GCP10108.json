@@ -1,0 +1,126 @@
+{
+  "project_id": "GCP10108",
+  "project_type": "gas",
+  "project_name": "Allen Road Widening (NCDOT U-5875)",
+  "budget": {
+    "current_amount": 1000000,
+    "original_amount": 1000000,
+    "amendments": [
+      {
+        "date": "2025-03-15",
+        "previous_amount": 1000000,
+        "new_amount": 400000,
+        "change_amount": -600000
+      },
+      {
+        "date": "2025-04-15",
+        "previous_amount": 400000,
+        "new_amount": 2500000,
+        "change_amount": 2100000
+      },
+      {
+        "date": "2025-05-15",
+        "previous_amount": 2500000,
+        "new_amount": 1000000,
+        "change_amount": -1500000
+      }
+    ]
+  },
+  "status": "in_progress",
+  "completion_target": "12/31/2029",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "corridor",
+    "centroid": [
+      35.58309205782554,
+      -77.48702229111365
+    ],
+    "geometry_json": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -77.48702229111365,
+          35.58309205782554
+        ],
+        [
+          -77.48702229111365,
+          35.58309205782554
+        ]
+      ]
+    },
+    "street_references": [
+      "Allen Road",
+      "Allen Rd."
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "medium",
+    "geocoding_source": "multiple_matches",
+    "geocoding_notes": "Parcel match: Allen Road (363 parcels); Parcel match: Allen Rd. (363 parcels)"
+  },
+  "description": "Widening of Allen Road as part of NCDOT project U-5875.",
+  "contractor": null,
+  "first_seen": "2025-12-15",
+  "last_updated": "2026-02-15",
+  "meeting_references": [
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "approved",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": null,
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "approved",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    }
+  ]
+}

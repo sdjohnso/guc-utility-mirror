@@ -1,0 +1,69 @@
+{
+  "project_id": "WCP10036",
+  "project_type": "water",
+  "project_name": "Elm Street Water Main Relocations",
+  "budget": {
+    "current_amount": 575000,
+    "original_amount": 575000,
+    "amendments": []
+  },
+  "status": "planned",
+  "completion_target": "1/1/2028",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": [
+      35.59016844128136,
+      -77.36652097969778
+    ],
+    "geometry_json": null,
+    "street_references": [
+      "Elm Street"
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "high",
+    "geocoding_source": "parcel_match",
+    "geocoding_notes": "Parcel match: Elm Street (164 parcels)"
+  },
+  "description": "Elm Street Water Main Relocations",
+  "contractor": null,
+  "first_seen": "2025-01-15",
+  "last_updated": "2026-01-15",
+  "meeting_references": [
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    }
+  ]
+}

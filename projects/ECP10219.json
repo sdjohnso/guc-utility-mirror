@@ -1,0 +1,113 @@
+{
+  "project_id": "ECP10219",
+  "project_type": "electric",
+  "project_name": "Peak Shaving Generator(s) Replacement",
+  "budget": {
+    "current_amount": 15500000,
+    "original_amount": 15500000,
+    "amendments": [
+      {
+        "date": "2025-12-15",
+        "previous_amount": 15500000,
+        "new_amount": 15000000,
+        "change_amount": -500000
+      },
+      {
+        "date": "2025-12-26",
+        "previous_amount": 15000000,
+        "new_amount": 15500000,
+        "change_amount": 500000
+      }
+    ]
+  },
+  "status": "in_progress",
+  "completion_target": "6/30/2027",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": [
+      35.598,
+      -77.369
+    ],
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [
+      "ECU Brody School of Medicine",
+      "ECU Health Science Campus"
+    ],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "high",
+    "geocoding_source": "known_landmark",
+    "geocoding_notes": "Landmark: ECU Brody School of Medicine"
+  },
+  "description": "Replacement of peak shaving generators.",
+  "contractor": null,
+  "first_seen": "2025-12-15",
+  "last_updated": "2026-01-15",
+  "meeting_references": [
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "approved",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "approved",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "approved",
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "recommended award of bid",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    }
+  ]
+}

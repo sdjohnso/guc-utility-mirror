@@ -1,0 +1,50 @@
+{
+  "project_id": "SCP10245",
+  "project_type": "sewer",
+  "project_name": "Frog Level Pump Station Improvements",
+  "budget": {
+    "current_amount": 3244000,
+    "original_amount": 1500000,
+    "amendments": [
+      {
+        "date": "2025-12-26",
+        "previous_amount": 1500000,
+        "new_amount": 3244000,
+        "change_amount": 1744000
+      }
+    ]
+  },
+  "status": "completed",
+  "completion_target": "6/30/2023",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": null,
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": null,
+    "geocoding_source": null
+  },
+  "description": "Improvements to the Frog Level Pump Station.",
+  "contractor": null,
+  "first_seen": "2025-01-15",
+  "last_updated": "2025-12-26",
+  "meeting_references": [
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    }
+  ]
+}

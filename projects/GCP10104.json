@@ -1,0 +1,44 @@
+{
+  "project_id": "GCP10104",
+  "project_type": "gas",
+  "project_name": "Memorial Drive Bridge Replacement",
+  "budget": {
+    "current_amount": 1500000,
+    "original_amount": 1500000,
+    "amendments": []
+  },
+  "status": "in_progress",
+  "completion_target": "TBD by NCDOT",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": [
+      35.603796764325836,
+      -77.39028886887075
+    ],
+    "geometry_json": null,
+    "street_references": [
+      "Memorial Drive"
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "high",
+    "geocoding_source": "parcel_match",
+    "geocoding_notes": "Parcel match: Memorial Drive (357 parcels)"
+  },
+  "description": "Replacement of the Memorial Drive bridge.",
+  "contractor": null,
+  "first_seen": "2025-12-26",
+  "last_updated": "2025-12-26",
+  "meeting_references": [
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    }
+  ]
+}

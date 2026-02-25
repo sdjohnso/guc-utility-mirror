@@ -1,0 +1,112 @@
+{
+  "project_id": "WCP10039",
+  "project_type": "water",
+  "project_name": "Water Main Rehab Phase III",
+  "budget": {
+    "current_amount": 6000000,
+    "original_amount": 6000000,
+    "amendments": [
+      {
+        "date": "2025-03-15",
+        "previous_amount": 6000000,
+        "new_amount": 4000000,
+        "change_amount": -2000000
+      },
+      {
+        "date": "2025-04-15",
+        "previous_amount": 4000000,
+        "new_amount": 6000000,
+        "change_amount": 2000000
+      }
+    ]
+  },
+  "status": "in_progress",
+  "completion_target": "3/31/2027",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": [
+      35.58892375838874,
+      -77.38843399748598
+    ],
+    "geometry_json": null,
+    "street_references": [
+      "Eastern Street",
+      "Third Street",
+      "west 4th Street",
+      "4th Street",
+      "Elm Street",
+      "5th Street"
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "medium",
+    "geocoding_source": "multiple_matches",
+    "geocoding_notes": "Parcel match: Eastern Street (162 parcels); Parcel match: Third Street (392 parcels); Parcel match: west 4th Street (1259 parcels); Parcel match: 4th Street (277 parcels); Parcel match: Elm Street (164 parcels); Parcel match: 5th Street (314 parcels)"
+  },
+  "description": "Water Main Rehab Phase III",
+  "contractor": null,
+  "first_seen": "2025-01-15",
+  "last_updated": "2026-02-15",
+  "meeting_references": [
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "discussed",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "approved",
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    }
+  ]
+}

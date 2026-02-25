@@ -1,0 +1,103 @@
+{
+  "project_id": "SCP10238",
+  "project_type": "sewer",
+  "project_name": "WWTP Clarifier Replacement Project",
+  "budget": {
+    "current_amount": 6000000,
+    "original_amount": 6000000,
+    "amendments": [
+      {
+        "date": "2025-03-15",
+        "previous_amount": 6000000,
+        "new_amount": 6550000,
+        "change_amount": 550000
+      },
+      {
+        "date": "2025-04-15",
+        "previous_amount": 6550000,
+        "new_amount": 6000000,
+        "change_amount": -550000
+      },
+      {
+        "date": "2025-12-26",
+        "previous_amount": 6000000,
+        "new_amount": 7500000,
+        "change_amount": 25201
+      },
+      {
+        "date": "2026-01-15",
+        "previous_amount": 7500000,
+        "new_amount": 6000000,
+        "change_amount": 377507
+      }
+    ]
+  },
+  "status": "in_progress",
+  "completion_target": "6/30/2026",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": null,
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": null,
+    "geocoding_source": null
+  },
+  "description": "Replacement of clarifiers at the Wastewater Treatment Plant.",
+  "contractor": null,
+  "first_seen": "2025-01-15",
+  "last_updated": "2026-02-15",
+  "meeting_references": [
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "discussed",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "project_id": "GCP10124",
+  "project_type": "gas",
+  "project_name": "Gas System Improvements for Industry and Commercial",
+  "budget": {
+    "current_amount": 1500000,
+    "original_amount": 1500000,
+    "amendments": []
+  },
+  "status": "in_progress",
+  "completion_target": "6/30/2026",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": null,
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": null,
+    "geocoding_source": null
+  },
+  "description": "Improvements to the gas system for industrial and commercial use.",
+  "contractor": null,
+  "first_seen": "2025-02-15",
+  "last_updated": "2025-11-15",
+  "meeting_references": [
+    {
+      "date": "2025-02-15",
+      "action": "approved",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "approved",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "discussed",
+      "source_file": "2025-11-15.json"
+    }
+  ]
+}

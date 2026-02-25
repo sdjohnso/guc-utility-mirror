@@ -1,0 +1,110 @@
+{
+  "project_id": "GCP10113",
+  "project_type": "gas",
+  "project_name": "Evans Street Widening (NCDOT U-2817)",
+  "budget": {
+    "current_amount": 136000,
+    "original_amount": 136000,
+    "amendments": [
+      {
+        "date": "2025-03-15",
+        "previous_amount": 136000,
+        "new_amount": 8300000,
+        "change_amount": 8164000
+      },
+      {
+        "date": "2025-06-15",
+        "previous_amount": 8300000,
+        "new_amount": 136000,
+        "change_amount": -8164000
+      }
+    ]
+  },
+  "status": "planned",
+  "completion_target": "6/30/2028",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "corridor",
+    "centroid": [
+      35.58676612149442,
+      -77.36589650576056
+    ],
+    "geometry_json": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -77.36589650576056,
+          35.58676612149442
+        ],
+        [
+          -77.36589650576056,
+          35.58676612149442
+        ]
+      ]
+    },
+    "street_references": [
+      "Evans Street",
+      "Evans St."
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "medium",
+    "geocoding_source": "multiple_matches",
+    "geocoding_notes": "Parcel match: Evans Street (319 parcels); Parcel match: Evans St. (319 parcels)"
+  },
+  "description": "Widening of Evans Street as part of NCDOT project U-2817.",
+  "contractor": null,
+  "first_seen": "2025-12-15",
+  "last_updated": "2026-02-15",
+  "meeting_references": [
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "approved",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "approved",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "discussed",
+      "source_file": "2026-02-15.json"
+    }
+  ]
+}

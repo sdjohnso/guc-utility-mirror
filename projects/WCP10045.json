@@ -1,0 +1,83 @@
+{
+  "project_id": "WCP10045",
+  "project_type": "water",
+  "project_name": "14th Street Widening (NCDOT U-5917)",
+  "budget": {
+    "current_amount": 45000,
+    "original_amount": 45000,
+    "amendments": [
+      {
+        "date": "2025-08-15",
+        "previous_amount": 45000,
+        "new_amount": 2650000,
+        "change_amount": 2605000
+      },
+      {
+        "date": "2026-01-15",
+        "previous_amount": 2650000,
+        "new_amount": 45000,
+        "change_amount": -2605000
+      }
+    ]
+  },
+  "status": "planned",
+  "completion_target": "12/31/2028",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": [
+      35.59950270423829,
+      -77.36917535297809
+    ],
+    "geometry_json": null,
+    "street_references": [
+      "14th Street",
+      "5th Street"
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "medium",
+    "geocoding_source": "multiple_matches",
+    "geocoding_notes": "Parcel match: 14th Street (178 parcels); Parcel match: 5th Street (314 parcels)"
+  },
+  "description": "14th Street Widening (NCDOT U-5917)",
+  "contractor": null,
+  "first_seen": "2025-01-15",
+  "last_updated": "2026-01-15",
+  "meeting_references": [
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "discussed",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "project_id": "ECP10277",
+  "project_type": "electric",
+  "project_name": "Build a 60 MVA distribution substation adjacent to Boviet Solar Technologies",
+  "budget": {
+    "current_amount": 12000000,
+    "original_amount": 12000000,
+    "amendments": []
+  },
+  "status": "in_progress",
+  "completion_target": "6/30/2027",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": [
+      35.57,
+      -77.28
+    ],
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [
+      "Boviet Solar Technologies",
+      "Boviet Substation"
+    ],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "medium",
+    "geocoding_source": "known_landmark",
+    "geocoding_notes": "Landmark: Boviet Solar Technologies"
+  },
+  "description": "Funding to build a new electric substation to allow the Phase II interconnection of Boviet Solar to the electric system.",
+  "contractor": "Substation Enterprises, Inc.",
+  "first_seen": "2025-12-15",
+  "last_updated": "2025-12-15",
+  "meeting_references": [
+    {
+      "date": "2025-12-15",
+      "action": "recommended award of bid",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "recommended award of bid",
+      "source_file": "2025-12-15.json"
+    }
+  ]
+}

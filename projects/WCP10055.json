@@ -1,0 +1,53 @@
+{
+  "project_id": "WCP10055",
+  "project_type": "water",
+  "project_name": "WTP Filter Improvements",
+  "budget": {
+    "current_amount": 5500000,
+    "original_amount": 5500000,
+    "amendments": []
+  },
+  "status": "in_progress",
+  "completion_target": "7/1/2029",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": null,
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": "Greenville",
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": null,
+    "geocoding_source": null
+  },
+  "description": "Improvements to the water treatment plant filters.",
+  "contractor": null,
+  "first_seen": "2025-06-15",
+  "last_updated": "2026-02-15",
+  "meeting_references": [
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    }
+  ]
+}

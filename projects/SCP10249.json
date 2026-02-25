@@ -1,0 +1,44 @@
+{
+  "project_id": "SCP10249",
+  "project_type": "sewer",
+  "project_name": "Swr COG BUILD Grant 5th Street",
+  "budget": {
+    "current_amount": 1750000,
+    "original_amount": 1750000,
+    "amendments": []
+  },
+  "status": "planned",
+  "completion_target": null,
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "line",
+    "centroid": [
+      35.60075910671987,
+      -77.37111795427018
+    ],
+    "geometry_json": null,
+    "street_references": [
+      "5th Street"
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "high",
+    "geocoding_source": "parcel_match",
+    "geocoding_notes": "Parcel match: 5th Street (314 parcels)"
+  },
+  "description": "Project funded by the COG BUILD Grant for improvements on 5th Street.",
+  "contractor": null,
+  "first_seen": "2025-04-15",
+  "last_updated": "2025-04-15",
+  "meeting_references": [
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    }
+  ]
+}

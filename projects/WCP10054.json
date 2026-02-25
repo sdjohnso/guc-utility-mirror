@@ -1,0 +1,60 @@
+{
+  "project_id": "WCP10054",
+  "project_type": "water",
+  "project_name": "NCDOT Dickinson Avenue Water Improvements",
+  "budget": {
+    "current_amount": 250000,
+    "original_amount": 250000,
+    "amendments": []
+  },
+  "status": "planned",
+  "completion_target": "7/1/2026",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": [
+      35.593477649551026,
+      -77.40316762309564
+    ],
+    "geometry_json": null,
+    "street_references": [
+      "Dickinson Avenue",
+      "Dickinson Ave."
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": "Greenville",
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "medium",
+    "geocoding_source": "multiple_matches",
+    "geocoding_notes": "Parcel match: Dickinson Avenue (288 parcels); Parcel match: Dickinson Ave. (288 parcels)"
+  },
+  "description": "Improvements to the water infrastructure along Dickinson Avenue.",
+  "contractor": null,
+  "first_seen": "2025-06-15",
+  "last_updated": "2026-02-15",
+  "meeting_references": [
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "discussed",
+      "source_file": "2026-02-15.json"
+    }
+  ]
+}

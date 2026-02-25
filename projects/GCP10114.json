@@ -1,0 +1,103 @@
+{
+  "project_id": "GCP10114",
+  "project_type": "gas",
+  "project_name": "14th Street Widening (NCDOT U-5917)",
+  "budget": {
+    "current_amount": 57000,
+    "original_amount": 57000,
+    "amendments": [
+      {
+        "date": "2025-03-15",
+        "previous_amount": 57000,
+        "new_amount": 898042,
+        "change_amount": 841042
+      },
+      {
+        "date": "2025-05-15",
+        "previous_amount": 898042,
+        "new_amount": 100000,
+        "change_amount": 900000
+      },
+      {
+        "date": "2025-09-15",
+        "previous_amount": 100000,
+        "new_amount": 57000,
+        "change_amount": -43000
+      }
+    ]
+  },
+  "status": "planned",
+  "completion_target": "6/30/2026",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "corridor",
+    "centroid": [
+      35.59824630175671,
+      -77.36723275168602
+    ],
+    "geometry_json": null,
+    "street_references": [
+      "14th Street"
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "high",
+    "geocoding_source": "parcel_match",
+    "geocoding_notes": "Parcel match: 14th Street (178 parcels)"
+  },
+  "description": "Widening of 14th Street as part of NCDOT project U-5917.",
+  "contractor": null,
+  "first_seen": "2025-12-15",
+  "last_updated": "2025-12-26",
+  "meeting_references": [
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "approved",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "discussed",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "approved",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "project_id": "FCP10072",
+  "project_type": "facility",
+  "project_name": "New Operations Center Phase 2",
+  "budget": {
+    "current_amount": 52550000,
+    "original_amount": 52550000,
+    "amendments": []
+  },
+  "status": "in_progress",
+  "completion_target": "9/30/2025",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "point",
+    "centroid": null,
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": null,
+    "geocoding_source": null
+  },
+  "description": "New Operations Center Phase 2",
+  "contractor": null,
+  "first_seen": "2025-09-15",
+  "last_updated": "2025-09-15",
+  "meeting_references": [
+    {
+      "date": "2025-09-15",
+      "action": "approved",
+      "source_file": "2025-09-15.json"
+    }
+  ]
+}

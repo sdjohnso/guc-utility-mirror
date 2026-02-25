@@ -1,0 +1,57 @@
+{
+  "project_id": "SCP10253",
+  "project_type": "sewer",
+  "project_name": "Swr NCDOT Corey & Worthington",
+  "budget": {
+    "current_amount": 145000,
+    "original_amount": 145000,
+    "amendments": []
+  },
+  "status": "planned",
+  "completion_target": null,
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "line",
+    "centroid": [
+      35.61123905934335,
+      -77.31027618272711
+    ],
+    "geometry_json": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -77.29178211848063,
+          35.63738382376143
+        ],
+        [
+          -77.3287702469736,
+          35.58509429492526
+        ]
+      ]
+    },
+    "street_references": [
+      "Corey Street",
+      "Worthington Street"
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "medium",
+    "geocoding_source": "multiple_matches",
+    "geocoding_notes": "Parcel match: Corey Street (138 parcels); Parcel match: Worthington Street (212 parcels)"
+  },
+  "description": "Sewer improvements at the intersection of Corey and Worthington.",
+  "contractor": null,
+  "first_seen": "2025-04-15",
+  "last_updated": "2025-04-15",
+  "meeting_references": [
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "project_id": "ECP10218",
+  "project_type": "electric",
+  "project_name": "Mt. Pleasant to Wellcome 115 kV Transmission",
+  "budget": {
+    "current_amount": 8892000,
+    "original_amount": 12692000,
+    "amendments": [
+      {
+        "date": "2025-12-26",
+        "previous_amount": 12692000,
+        "new_amount": 8892000,
+        "change_amount": -3800000
+      }
+    ]
+  },
+  "status": "in_progress",
+  "completion_target": "1/31/2024",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "line",
+    "centroid": null,
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": null,
+    "geocoding_source": null
+  },
+  "description": "Mt. Pleasant to Wellcome 115 kV Transmission",
+  "contractor": null,
+  "first_seen": "2025-01-15",
+  "last_updated": "2025-12-26",
+  "meeting_references": [
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "approved",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    }
+  ]
+}

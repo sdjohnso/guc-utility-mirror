@@ -1,0 +1,61 @@
+{
+  "project_id": "SCP10243",
+  "project_type": "sewer",
+  "project_name": "Elm Street Sewer Pipeline Relocations",
+  "budget": {
+    "current_amount": 550000,
+    "original_amount": 325000,
+    "amendments": [
+      {
+        "date": "2025-03-15",
+        "previous_amount": 325000,
+        "new_amount": 550000,
+        "change_amount": 225000
+      }
+    ]
+  },
+  "status": "planned",
+  "completion_target": "6/30/2028",
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "line",
+    "centroid": [
+      35.59016844128136,
+      -77.36652097969778
+    ],
+    "geometry_json": null,
+    "street_references": [
+      "Elm Street"
+    ],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": "high",
+    "geocoding_source": "parcel_match",
+    "geocoding_notes": "Parcel match: Elm Street (164 parcels)"
+  },
+  "description": "Relocations of sewer pipelines along Elm Street.",
+  "contractor": null,
+  "first_seen": "2025-01-15",
+  "last_updated": "2025-04-15",
+  "meeting_references": [
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    }
+  ]
+}
