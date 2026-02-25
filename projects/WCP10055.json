@@ -12,7 +12,10 @@
   "actual_completion": null,
   "location": {
     "geometry_type": "point",
-    "centroid": null,
+    "centroid": [
+      35.6127,
+      -77.3663
+    ],
     "geometry_json": null,
     "street_references": [],
     "from_street": null,
@@ -21,8 +24,9 @@
     "service_area_name": null,
     "township": "Greenville",
     "estimated_radius_miles": 0.25,
-    "geocoding_confidence": null,
-    "geocoding_source": null
+    "geocoding_confidence": "medium",
+    "geocoding_source": "known_landmark",
+    "geocoding_notes": "Project name match: wtp"
   },
   "description": "Improvements to the water treatment plant filters.",
   "contractor": null,

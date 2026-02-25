@@ -12,7 +12,10 @@
   "actual_completion": null,
   "location": {
     "geometry_type": "point",
-    "centroid": null,
+    "centroid": [
+      35.52933637177717,
+      -77.25996297693884
+    ],
     "geometry_json": null,
     "street_references": [],
     "from_street": null,
@@ -21,8 +24,9 @@
     "service_area_name": null,
     "township": null,
     "estimated_radius_miles": 0.25,
-    "geocoding_confidence": null,
-    "geocoding_source": null
+    "geocoding_confidence": "high",
+    "geocoding_source": "known_landmark",
+    "geocoding_notes": "Project name match: Hudson\u2019s Crossroads"
   },
   "description": "Project at Hudson\u2019s Crossroads.",
   "contractor": null,
