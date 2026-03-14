@@ -1,0 +1,38 @@
+{
+  "project_id": "SCP10252",
+  "project_type": "sewer",
+  "project_name": "NCDOT 14th Street",
+  "budget": {
+    "current_amount": 15000,
+    "original_amount": 15000,
+    "amendments": []
+  },
+  "status": "planned",
+  "completion_target": null,
+  "actual_completion": null,
+  "location": {
+    "geometry_type": "polygon",
+    "centroid": null,
+    "geometry_json": null,
+    "street_references": [],
+    "from_street": null,
+    "to_street": null,
+    "landmarks": [],
+    "service_area_name": null,
+    "township": null,
+    "estimated_radius_miles": 0.25,
+    "geocoding_confidence": null,
+    "geocoding_source": null
+  },
+  "description": "Sewer improvements related to NCDOT 14th Street.",
+  "contractor": null,
+  "first_seen": "2026-03-15",
+  "last_updated": "2026-03-15",
+  "meeting_references": [
+    {
+      "date": "2026-03-15",
+      "action": null,
+      "source_file": "2026-03-15.json"
+    }
+  ]
+}

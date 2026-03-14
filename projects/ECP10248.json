@@ -5,7 +5,20 @@
   "budget": {
     "current_amount": 5000000,
     "original_amount": 5000000,
-    "amendments": []
+    "amendments": [
+      {
+        "date": "2025-06-15",
+        "previous_amount": 5000000,
+        "new_amount": 4250000,
+        "change_amount": -750000
+      },
+      {
+        "date": "2025-11-15",
+        "previous_amount": 4250000,
+        "new_amount": 5000000,
+        "change_amount": 750000
+      }
+    ]
   },
   "status": "in_progress",
   "completion_target": "6/30/2027",
@@ -48,6 +61,41 @@
       "date": "2025-05-15",
       "action": "",
       "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
     },
     {
       "date": "2025-11-15",

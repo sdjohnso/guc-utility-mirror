@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-11-15",
-  "extracted_at": "2026-02-24T23:10:02.337626",
+  "extracted_at": "2026-03-14T19:42:51.948631",
   "projects": [
     {
       "project_id": "ECP10276",
@@ -20,7 +20,7 @@
       "service_area_name": null,
       "township": "Pactolus",
       "geometry_hint": "point",
-      "description": "Recommended Approval to Purchase Two (2) \u2013 2 Megawatt (MW) Peak Shaving Generators for the Boviet Substation",
+      "description": "Recommended Approval to Purchase Two (2) \u2013 2 Megawatt (MW) Peak Shaving Generators for the Boviet Substation.",
       "contractor": null,
       "board_action": "recommended approval"
     },
@@ -380,7 +380,7 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "polygon",
+      "geometry_hint": "point",
       "description": "Allen Road Widening (NCDOT U-5875)",
       "contractor": "",
       "board_action": "approved"
@@ -420,6 +420,25 @@
       "township": "",
       "geometry_hint": "point",
       "description": "WTP Lagoon and Impoundment Improvements",
+      "contractor": "",
+      "board_action": "approved"
+    },
+    {
+      "project_id": "WCP10053",
+      "project_type": "water",
+      "project_name": "NCDOT Evans St. Widening",
+      "budget_amount": 125000,
+      "budget_amendment": 0,
+      "completion_target": "12/31/2029",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "point",
+      "description": "NCDOT Evans St. Widening",
       "contractor": "",
       "board_action": "approved"
     },
@@ -497,7 +516,7 @@
       "geometry_hint": "point",
       "description": "Duplex Pump Station Improvements",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "SCP10238",
@@ -516,7 +535,7 @@
       "geometry_hint": "point",
       "description": "WWTP Clarifier Replacement Project",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "SCP10241",
@@ -535,7 +554,7 @@
       "geometry_hint": "polygon",
       "description": "Bethel Wastewater System Improvements",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10099",
@@ -554,7 +573,7 @@
       "geometry_hint": "point",
       "description": "High-Pressure Multiple Gas Facilities Relocation",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10101",
@@ -573,7 +592,7 @@
       "geometry_hint": "line",
       "description": "Firetower Road Widening",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10124",
@@ -592,7 +611,7 @@
       "geometry_hint": "point",
       "description": "Gas System Improvements for Industry and Commercial",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     }
   ]
 }

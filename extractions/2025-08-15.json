@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-08-15",
-  "extracted_at": "2026-02-24T23:05:07.921298",
+  "extracted_at": "2026-03-14T19:38:09.377024",
   "projects": [
     {
       "project_id": "WCP10040",
@@ -9,7 +9,7 @@
       "budget_amount": null,
       "budget_amendment": null,
       "completion_target": null,
-      "status": "in_progress",
+      "status": "planned",
       "streets": [],
       "from_street": null,
       "to_street": null,
@@ -19,9 +19,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "The Water Treatment Plant Laboratory requires significant upgrades and improvements due to its age and the increased scope of laboratory responsibilities.",
+      "description": "Significant upgrades and improvements to the Water Treatment Plant Laboratory, which has not undergone major renovation in over 40 years.",
       "contractor": null,
-      "board_action": "recommended award of construction contract"
+      "board_action": "recommended award"
     },
     {
       "project_id": "FCP10245",
@@ -29,7 +29,7 @@
       "project_name": "Admin HVAC Upgrades Project",
       "budget_amount": 3500000,
       "budget_amendment": 1000000,
-      "completion_target": "August 2025",
+      "completion_target": "July 2025",
       "status": "in_progress",
       "streets": [],
       "from_street": "",
@@ -154,7 +154,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "line",
-      "description": "Relocation of water main due to the NCDOT Memorial Drive Bridge project.",
+      "description": "Relocation of water main due to the Memorial Drive Bridge project.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -172,7 +172,7 @@
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "polygon",
+      "geometry_hint": "line",
       "description": "Rehabilitation of water mains in the third phase.",
       "contractor": null,
       "board_action": "approved"
@@ -194,7 +194,7 @@
       "geometry_hint": "point",
       "description": "Upgrades to the Water Treatment Plant laboratory.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "WCP10044",
@@ -216,27 +216,6 @@
       "board_action": "approved"
     },
     {
-      "project_id": "WCP10045",
-      "project_type": "water",
-      "project_name": "COG BUILD Grant-5th Street",
-      "budget_amount": 2650000,
-      "budget_amendment": null,
-      "completion_target": "6/30/2028",
-      "status": "planned",
-      "streets": [
-        "5th Street"
-      ],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "corridor",
-      "description": "Improvements funded by COG BUILD Grant along 5th Street.",
-      "contractor": null,
-      "board_action": "discussed"
-    },
-    {
       "project_id": "SCP10235",
       "project_type": "sewer",
       "project_name": "Southeast Sewer Service Area Project",
@@ -252,25 +231,6 @@
       "township": null,
       "geometry_hint": "polygon",
       "description": "Improvements to the sewer service area in the southeast.",
-      "contractor": null,
-      "board_action": "approved"
-    },
-    {
-      "project_id": "SCP10238",
-      "project_type": "sewer",
-      "project_name": "WWTP Clarifier Replacement Project",
-      "budget_amount": 6000000,
-      "budget_amendment": 892191,
-      "completion_target": "6/30/2026",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "point",
-      "description": "Replacement of clarifiers at the wastewater treatment plant.",
       "contractor": null,
       "board_action": "approved"
     },

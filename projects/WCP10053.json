@@ -3,9 +3,16 @@
   "project_type": "water",
   "project_name": "NCDOT Evans St. Widening",
   "budget": {
-    "current_amount": 125000,
+    "current_amount": 2625000,
     "original_amount": 125000,
-    "amendments": []
+    "amendments": [
+      {
+        "date": "2026-03-15",
+        "previous_amount": 125000,
+        "new_amount": 2625000,
+        "change_amount": 2500000
+      }
+    ]
   },
   "status": "planned",
   "completion_target": "12/31/2029",
@@ -33,7 +40,7 @@
   "description": "Widening project for Evans St. as part of NCDOT improvements.",
   "contractor": null,
   "first_seen": "2026-01-15",
-  "last_updated": "2026-02-15",
+  "last_updated": "2026-03-15",
   "meeting_references": [
     {
       "date": "2026-01-15",
@@ -44,6 +51,26 @@
       "date": "2026-02-15",
       "action": "discussed",
       "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "discussed",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": null,
+      "source_file": "2026-03-15.json"
     }
   ]
 }

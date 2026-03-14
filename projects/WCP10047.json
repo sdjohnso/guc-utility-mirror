@@ -17,11 +17,35 @@
         "previous_amount": 10000,
         "new_amount": 150000,
         "change_amount": 140000
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 150000,
+        "new_amount": 145000,
+        "change_amount": -5000
+      },
+      {
+        "date": "2025-04-15",
+        "previous_amount": 145000,
+        "new_amount": 150000,
+        "change_amount": 5000
+      },
+      {
+        "date": "2025-07-15",
+        "previous_amount": 150000,
+        "new_amount": 10000,
+        "change_amount": -140000
+      },
+      {
+        "date": "2025-11-15",
+        "previous_amount": 10000,
+        "new_amount": 150000,
+        "change_amount": 140000
       }
     ]
   },
-  "status": "in_progress",
-  "completion_target": "3/31/2026",
+  "status": "planned",
+  "completion_target": "6/13/2024",
   "actual_completion": null,
   "location": {
     "geometry_type": "point",
@@ -32,7 +56,9 @@
     "geometry_json": null,
     "street_references": [
       "Corey Rd.",
-      "Worthington Rd."
+      "Worthington Rd.",
+      "Corey Street",
+      "Worthington Street"
     ],
     "from_street": null,
     "to_street": null,
@@ -72,6 +98,41 @@
     {
       "date": "2025-07-15",
       "action": null,
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "discussed",
       "source_file": "2025-07-15.json"
     },
     {

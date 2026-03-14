@@ -3,11 +3,18 @@
   "project_type": "gas",
   "project_name": "Gas System Improvements for Industry and Commercial",
   "budget": {
-    "current_amount": 1500000,
+    "current_amount": 300000,
     "original_amount": 1500000,
-    "amendments": []
+    "amendments": [
+      {
+        "date": "2026-03-15",
+        "previous_amount": 1500000,
+        "new_amount": 300000,
+        "change_amount": -1200000
+      }
+    ]
   },
-  "status": "in_progress",
+  "status": "planned",
   "completion_target": "6/30/2026",
   "actual_completion": null,
   "location": {
@@ -27,7 +34,7 @@
   "description": "Improvements to the gas system for industrial and commercial use.",
   "contractor": null,
   "first_seen": "2025-02-15",
-  "last_updated": "2025-11-15",
+  "last_updated": "2026-03-15",
   "meeting_references": [
     {
       "date": "2025-02-15",
@@ -48,6 +55,31 @@
       "date": "2025-11-15",
       "action": "discussed",
       "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "approved",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "discussed",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": null,
+      "source_file": "2026-03-15.json"
     }
   ]
 }

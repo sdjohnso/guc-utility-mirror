@@ -3,9 +3,16 @@
   "project_type": "sewer",
   "project_name": "NCDOT Evans Street",
   "budget": {
-    "current_amount": 100000,
+    "current_amount": 800000,
     "original_amount": 100000,
-    "amendments": []
+    "amendments": [
+      {
+        "date": "2026-03-15",
+        "previous_amount": 100000,
+        "new_amount": 800000,
+        "change_amount": 700000
+      }
+    ]
   },
   "status": "planned",
   "completion_target": "12/31/2029",
@@ -33,7 +40,7 @@
   "description": "Sewer improvements along Evans Street.",
   "contractor": null,
   "first_seen": "2025-06-15",
-  "last_updated": "2025-09-15",
+  "last_updated": "2026-03-15",
   "meeting_references": [
     {
       "date": "2025-06-15",
@@ -44,6 +51,21 @@
       "date": "2025-09-15",
       "action": "discussed",
       "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "discussed",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": null,
+      "source_file": "2026-03-15.json"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-02-15",
-  "extracted_at": "2026-02-24T22:53:12.462276",
+  "extracted_at": "2026-03-14T19:26:03.552512",
   "projects": [
     {
       "project_id": "WCP10043",
@@ -55,7 +55,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Relocation of high-pressure gas facilities.",
+      "description": "Relocation of multiple high-pressure gas facilities.",
       "contractor": null,
       "board_action": "discussed"
     },

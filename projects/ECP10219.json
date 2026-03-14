@@ -17,6 +17,18 @@
         "previous_amount": 15000000,
         "new_amount": 15500000,
         "change_amount": 500000
+      },
+      {
+        "date": "2025-06-15",
+        "previous_amount": 15500000,
+        "new_amount": 6000000,
+        "change_amount": -9500000
+      },
+      {
+        "date": "2025-07-15",
+        "previous_amount": 6000000,
+        "new_amount": 15500000,
+        "change_amount": 9500000
       }
     ]
   },
@@ -45,6 +57,16 @@
     "geocoding_notes": "Landmark: ECU Brody School of Medicine"
   },
   "description": "Replacement of peak shaving generators.",
+  "enriched_description": "Multi-year program to replace ~10.5 MW of aging generation assets (end of useful life) that reduce wholesale power costs by avoiding coincident peak demand charges. Latest: 4,000 kW natural gas generator at ECU Health Science Campus ($3.9M, Gregory Poole Power Systems) saving ~$88,640/month. Previously completed: 1,000 kW at P&G Substation, 1,500 kW at Mayne Pharma. Industrial-scale load management demonstrates GUC's capability to serve large users like Boviet (4 MW peak-shaving included in substation deal). Program runs through 6/30/2027 - watch for additional generator installations as industrial base grows.",
+  "enrichment_contacts": [
+    "John Worrell (GUC Electric Engineering)",
+    "John Powell (GUC Electric Engineering)"
+  ],
+  "enrichment_sources": [
+    "GUC Board Oct 2022",
+    "GUC Board meetings 2022-2026"
+  ],
+  "enrichment_date": "2026-02-25",
   "contractor": null,
   "first_seen": "2025-12-15",
   "last_updated": "2026-01-15",
@@ -77,6 +99,66 @@
     {
       "date": "2025-07-15",
       "action": "approved",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "approved",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "approved",
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "recommended award of bid",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "",
       "source_file": "2025-07-15.json"
     },
     {

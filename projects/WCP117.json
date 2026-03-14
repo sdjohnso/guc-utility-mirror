@@ -3,9 +3,16 @@
   "project_type": "water",
   "project_name": "WTP Upgrade Phase I",
   "budget": {
-    "current_amount": 55000000,
+    "current_amount": 1900000,
     "original_amount": 55000000,
-    "amendments": []
+    "amendments": [
+      {
+        "date": "2025-12-26",
+        "previous_amount": 55000000,
+        "new_amount": 1900000,
+        "change_amount": -53100000
+      }
+    ]
   },
   "status": "in_progress",
   "completion_target": "12/31/2023",
@@ -29,10 +36,46 @@
     "geocoding_notes": "Project name match: wtp"
   },
   "description": "WTP Upgrade Phase I",
+  "enriched_description": "GUC's largest-ever water infrastructure investment, expanding capacity from 22.5 MGD to 32 MGD (42% increase) to serve regional growth through 2035. Secured $29M EPA WIFIA loan - federal recognition of Greenville as 'one of the fastest growing municipal regions in North Carolina.' Uses advanced superpulsator technology combining rapid mix, flocculation, and sedimentation in a single tank. Original 1983 plant (12 MGD) \u2192 2002 expansion (22.5 MGD) \u2192 now 32 MGD. Serves 131,161+ population. Critical capacity for recruiting industrial users like Boviet ($400M) and NIPRO ($398M). Project completed and operational - watch for Phase II planning as demand grows.",
+  "enrichment_contacts": [
+    "David Springer (Director, Water/Sewer Services)",
+    "Tyler Haislip (GUC Engineering)"
+  ],
+  "enrichment_sources": [
+    "EPA WIFIA",
+    "GUC website",
+    "GUC Board meetings 2022-2025"
+  ],
+  "enrichment_date": "2026-02-25",
   "contractor": null,
   "first_seen": "2025-01-15",
   "last_updated": "2025-12-26",
   "meeting_references": [
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
     {
       "date": "2025-01-15",
       "action": "",
