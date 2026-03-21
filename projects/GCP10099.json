@@ -3,7 +3,7 @@
   "project_type": "gas",
   "project_name": "High-Pressure Multiple Gas Facilities Relocation",
   "budget": {
-    "current_amount": 300000,
+    "current_amount": 9500000,
     "original_amount": 9500000,
     "amendments": [
       {
@@ -59,10 +59,40 @@
         "previous_amount": 9500000,
         "new_amount": 300000,
         "change_amount": -9200000
+      },
+      {
+        "date": "2025-01-15",
+        "previous_amount": 300000,
+        "new_amount": 9500000,
+        "change_amount": 9200000
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 9500000,
+        "new_amount": 150000,
+        "change_amount": -9350000
+      },
+      {
+        "date": "2025-04-15",
+        "previous_amount": 150000,
+        "new_amount": 9500000,
+        "change_amount": 9350000
+      },
+      {
+        "date": "2025-08-15",
+        "previous_amount": 9500000,
+        "new_amount": 1000000,
+        "change_amount": 99
+      },
+      {
+        "date": "2025-09-15",
+        "previous_amount": 1000000,
+        "new_amount": 9500000,
+        "change_amount": 8500000
       }
     ]
   },
-  "status": "planned",
+  "status": "in_progress",
   "completion_target": "12/31/2026",
   "actual_completion": null,
   "location": {
@@ -242,6 +272,76 @@
     {
       "date": "2026-03-15",
       "action": null,
+      "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "discussed",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": null,
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "discussed",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "discussed",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": "discussed",
       "source_file": "2026-03-15.json"
     }
   ]

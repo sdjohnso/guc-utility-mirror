@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-02-15",
-  "extracted_at": "2026-03-14T19:26:03.552512",
+  "extracted_at": "2026-03-21T08:59:01.694842",
   "projects": [
     {
       "project_id": "WCP10043",
@@ -41,13 +41,13 @@
       "board_action": "discussed"
     },
     {
-      "project_id": "GCP10099",
+      "project_id": "GCP-92",
       "project_type": "gas",
-      "project_name": "High-Pressure Multiple Gas Facilities Relocation",
-      "budget_amount": 9500000,
+      "project_name": "LNG Expansion Project",
+      "budget_amount": 1000000,
       "budget_amendment": 0,
-      "completion_target": "12/30/2025",
-      "status": "in_progress",
+      "completion_target": "11/30/2025",
+      "status": "planned",
       "streets": [],
       "from_street": null,
       "to_street": null,
@@ -55,7 +55,26 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Relocation of multiple high-pressure gas facilities.",
+      "description": "LNG Expansion Project",
+      "contractor": null,
+      "board_action": "discussed"
+    },
+    {
+      "project_id": "GCP10099",
+      "project_type": "gas",
+      "project_name": "High-Pressure Multiple Gas Facilities Relocation",
+      "budget_amount": 9500000,
+      "budget_amendment": 0,
+      "completion_target": "12/30/2025",
+      "status": "planned",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "point",
+      "description": "High-Pressure Multiple Gas Facilities Relocation",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -76,9 +95,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening of Firetower Road.",
+      "description": "Firetower Road Widening",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": "discussed"
     },
     {
       "project_id": "GCP10108",
@@ -97,9 +116,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening of Allen Road as part of NCDOT project U-5875.",
+      "description": "Allen Road Widening (NCDOT U-5875)",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": "discussed"
     },
     {
       "project_id": "GCP10113",
@@ -118,9 +137,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening of Evans Street as part of NCDOT project U-2817.",
+      "description": "Evans Street Widening (NCDOT U-2817)",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": "discussed"
     },
     {
       "project_id": "GCP10114",
@@ -139,9 +158,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening of 14th Street as part of NCDOT project U-5917.",
+      "description": "14th Street Widening (NCDOT U-5917)",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": "discussed"
     },
     {
       "project_id": "GCP10123",
@@ -158,7 +177,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Phase II of the Integrity Management Replacement project.",
+      "description": "Integrity Management Replacement, Phase II",
       "contractor": null,
       "board_action": "approved"
     },
@@ -177,7 +196,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Improvements to the gas system for industrial and commercial use.",
+      "description": "Gas System Improvements for Industry and Commercial",
       "contractor": null,
       "board_action": "approved"
     }

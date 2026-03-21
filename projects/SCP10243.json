@@ -3,7 +3,7 @@
   "project_type": "sewer",
   "project_name": "Elm Street Sewer Pipeline Relocations",
   "budget": {
-    "current_amount": 325000,
+    "current_amount": 550000,
     "original_amount": 325000,
     "amendments": [
       {
@@ -29,11 +29,29 @@
         "previous_amount": 550000,
         "new_amount": 325000,
         "change_amount": -225000
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 325000,
+        "new_amount": 550000,
+        "change_amount": 225000
+      },
+      {
+        "date": "2025-06-15",
+        "previous_amount": 550000,
+        "new_amount": 325000,
+        "change_amount": -225000
+      },
+      {
+        "date": "2025-12-26",
+        "previous_amount": 325000,
+        "new_amount": 550000,
+        "change_amount": 225000
       }
     ]
   },
   "status": "in_progress",
-  "completion_target": "6/30/2028",
+  "completion_target": "6/30/2024",
   "actual_completion": null,
   "location": {
     "geometry_type": "line",
@@ -58,7 +76,7 @@
   "description": "Relocations of sewer pipelines along Elm Street.",
   "contractor": null,
   "first_seen": "2025-01-15",
-  "last_updated": "2025-06-15",
+  "last_updated": "2025-12-26",
   "meeting_references": [
     {
       "date": "2025-01-15",
@@ -94,6 +112,26 @@
       "date": "2025-06-15",
       "action": "discussed",
       "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
     }
   ]
 }

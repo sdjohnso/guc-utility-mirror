@@ -3,7 +3,7 @@
   "project_type": "gas",
   "project_name": "Integrity Management Replacement Project, Phase III",
   "budget": {
-    "current_amount": 650000,
+    "current_amount": 700000,
     "original_amount": 700000,
     "amendments": [
       {
@@ -11,11 +11,17 @@
         "previous_amount": 700000,
         "new_amount": 650000,
         "change_amount": -50000
+      },
+      {
+        "date": "2025-06-15",
+        "previous_amount": 650000,
+        "new_amount": 700000,
+        "change_amount": 50000
       }
     ]
   },
   "status": "planned",
-  "completion_target": "6/30/2026",
+  "completion_target": "6/30/2028",
   "actual_completion": null,
   "location": {
     "geometry_type": "point",
@@ -74,6 +80,26 @@
     {
       "date": "2026-03-15",
       "action": null,
+      "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "discussed",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": "approved",
       "source_file": "2026-03-15.json"
     }
   ]

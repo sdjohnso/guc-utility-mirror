@@ -3,7 +3,7 @@
   "project_type": "gas",
   "project_name": "Allen Road Widening (NCDOT U-5875)",
   "budget": {
-    "current_amount": 2200000,
+    "current_amount": 1000000,
     "original_amount": 1000000,
     "amendments": [
       {
@@ -47,6 +47,30 @@
         "previous_amount": 1000000,
         "new_amount": 2200000,
         "change_amount": 1200000
+      },
+      {
+        "date": "2025-02-15",
+        "previous_amount": 2200000,
+        "new_amount": 1000000,
+        "change_amount": -1200000
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 1000000,
+        "new_amount": 400000,
+        "change_amount": -600000
+      },
+      {
+        "date": "2025-04-15",
+        "previous_amount": 400000,
+        "new_amount": 2500000,
+        "change_amount": 2100000
+      },
+      {
+        "date": "2025-05-15",
+        "previous_amount": 2500000,
+        "new_amount": 1000000,
+        "change_amount": 1500000
       }
     ]
   },
@@ -74,7 +98,8 @@
     },
     "street_references": [
       "Allen Road",
-      "Allen Rd."
+      "Allen Rd.",
+      "Allen Rd"
     ],
     "from_street": null,
     "to_street": null,
@@ -199,6 +224,56 @@
     {
       "date": "2026-03-15",
       "action": null,
+      "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "discussed",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": null,
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": null,
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "discussed",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": "approved",
       "source_file": "2026-03-15.json"
     }
   ]

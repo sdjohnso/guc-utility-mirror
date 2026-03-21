@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-07-15",
-  "extracted_at": "2026-03-14T19:37:22.731997",
+  "extracted_at": "2026-03-21T09:13:15.297383",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -13,11 +13,13 @@
       "streets": [],
       "from_street": "",
       "to_street": "",
-      "landmarks": [],
+      "landmarks": [
+        "Simpson Substation"
+      ],
       "service_area_name": "",
       "township": "",
       "geometry_hint": "line",
-      "description": "POD #3 to Simpson Substation 115 kV Transmission Loop",
+      "description": "115 kV Transmission Loop from POD #3 to Simpson Substation",
       "contractor": "",
       "board_action": ""
     },
@@ -36,7 +38,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "line",
-      "description": "Mt. Pleasant to Wellcome 115 kV Transmission",
+      "description": "115 kV Transmission from Mt. Pleasant to Wellcome",
       "contractor": "",
       "board_action": ""
     },
@@ -55,7 +57,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Peak Shaving Generator(s) Replacement",
+      "description": "Replacement of Peak Shaving Generators",
       "contractor": "",
       "board_action": ""
     },
@@ -74,7 +76,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Transmission Structure Replacement(s)",
+      "description": "Replacement of Transmission Structures",
       "contractor": "",
       "board_action": ""
     },
@@ -93,7 +95,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Residual Lagoon Improvements",
+      "description": "Improvements to the Residual Lagoon",
       "contractor": "",
       "board_action": ""
     },
@@ -112,7 +114,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Water Distribution System Improvements",
+      "description": "Improvements to the Water Distribution System",
       "contractor": "",
       "board_action": ""
     },
@@ -131,7 +133,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Water Treatment Plant Riverbank Stabilization",
+      "description": "Stabilization of the riverbank at the Water Treatment Plant",
       "contractor": "",
       "board_action": ""
     },
@@ -148,9 +150,47 @@
       "to_street": "",
       "landmarks": [],
       "service_area_name": "",
+      "township": "Bethel",
+      "geometry_hint": "polygon",
+      "description": "Improvements to the Bethel Water System",
+      "contractor": "",
+      "board_action": ""
+    },
+    {
+      "project_id": "WCP10039",
+      "project_type": "water",
+      "project_name": "Water Main Rehab Phase III",
+      "budget_amount": 6000000,
+      "budget_amendment": 0,
+      "completion_target": "3/31/2027",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Bethel Water System Improvements",
+      "description": "Rehabilitation of Water Mains in Phase III",
+      "contractor": "",
+      "board_action": ""
+    },
+    {
+      "project_id": "WCP10040",
+      "project_type": "water",
+      "project_name": "WTP Lab Upgrades",
+      "budget_amount": 2000000,
+      "budget_amendment": 0,
+      "completion_target": "12/31/2025",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "point",
+      "description": "Upgrades to the Water Treatment Plant Laboratory",
       "contractor": "",
       "board_action": ""
     },
@@ -171,7 +211,7 @@
       "geometry_hint": "corridor",
       "description": "14th Street Widening project as part of NCDOT U-5917.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
     },
     {
       "project_id": "WCP10047",
@@ -188,9 +228,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening of Allen Road as part of NCDOT U-5875.",
+      "description": "Allen Road Widening project as part of NCDOT U-5875.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
     },
     {
       "project_id": "WCP10048",
@@ -207,9 +247,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Construction of a roundabout at Corey Rd. and Worthington Rd.",
+      "description": "Corey Rd./Worthington Rd. Roundabout project as part of NCDOT W-5702M.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
     },
     {
       "project_id": "WCP10049",
@@ -226,9 +266,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Improvements along Firetower and Portertown Roads as part of NCDOT U-5785/5870.",
+      "description": "Firetower/Portertown Rd. project as part of NCDOT U-5785/5870.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
     },
     {
       "project_id": "SCP10221",
@@ -245,9 +285,9 @@
       "service_area_name": "Southeast Sewer Service Area",
       "township": null,
       "geometry_hint": "polygon",
-      "description": "Improvements to the Southeast Sewer Service Area.",
+      "description": "Southeast Sewer Service Area improvements.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "SCP10235",
@@ -266,7 +306,7 @@
       "geometry_hint": "point",
       "description": "Improvements to the Duplex Pump Station.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "SCP10241",
@@ -283,9 +323,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Replacement of clarifiers at the Wastewater Treatment Plant.",
+      "description": "Replacement of the WWTP Clarifier.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "GCP10099",
@@ -302,9 +342,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Relocation of multiple high-pressure gas facilities.",
+      "description": "Relocation of high-pressure multiple gas facilities.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "GCP10101",
@@ -323,7 +363,7 @@
       "geometry_hint": "corridor",
       "description": "Widening of Firetower Road.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
     },
     {
       "project_id": "GCP10108",
@@ -342,28 +382,7 @@
       "geometry_hint": "corridor",
       "description": "Widening of Allen Road as part of NCDOT U-5875.",
       "contractor": null,
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10040",
-      "project_type": "water",
-      "project_name": "WTP Lab Upgrades Project",
-      "budget_amount": 2000000,
-      "budget_amendment": 1000000,
-      "completion_target": "Q2 2025",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [
-        "Water Treatment Plant"
-      ],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "point",
-      "description": "The project includes the renovation of the existing laboratory space to modernize and improve functionality, including upgrades to electrical, HVAC, and plumbing systems.",
-      "contractor": "American Builders Inc.",
-      "board_action": "approved"
+      "board_action": null
     }
   ]
 }

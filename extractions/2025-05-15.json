@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-05-15",
-  "extracted_at": "2026-03-14T19:34:03.197266",
+  "extracted_at": "2026-03-21T09:09:07.359637",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -19,7 +19,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "line",
-      "description": "115 kV Transmission Loop from POD #3 to Simpson Substation",
+      "description": "POD #3 to Simpson Substation 115 kV Transmission Loop",
       "contractor": "",
       "board_action": ""
     },
@@ -38,7 +38,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "line",
-      "description": "115 kV Transmission from Mt. Pleasant to Wellcome",
+      "description": "Mt. Pleasant to Wellcome 115 kV Transmission",
       "contractor": "",
       "board_action": ""
     },
@@ -57,7 +57,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Replacement of Peak Shaving Generators",
+      "description": "Peak Shaving Generator(s) Replacement",
       "contractor": "",
       "board_action": ""
     },
@@ -76,7 +76,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Replacement of Transmission Structures",
+      "description": "Transmission Structure Replacement(s)",
       "contractor": "",
       "board_action": ""
     },
@@ -95,7 +95,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Project at Hudson\u2019s Crossroads",
+      "description": "Hudson\u2019s Crossroads",
       "contractor": "",
       "board_action": ""
     },
@@ -114,7 +114,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Replacement of POD Transformers",
+      "description": "POD Transformer Replacement",
       "contractor": "",
       "board_action": ""
     },
@@ -171,7 +171,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Conversion of Radial Substation",
+      "description": "Radial Substation Conversion",
       "contractor": "",
       "board_action": ""
     },
@@ -228,7 +228,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Upgrade of Water Treatment Plant Phase I",
+      "description": "WTP Upgrade Phase I",
       "contractor": "",
       "board_action": ""
     },
@@ -247,7 +247,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Improvements to Residual Lagoon",
+      "description": "Residual Lagoon Improvements",
       "contractor": "",
       "board_action": ""
     },
@@ -266,7 +266,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Improvements to Water Distribution System",
+      "description": "Water Distribution System Improvements",
       "contractor": "",
       "board_action": ""
     },
@@ -285,7 +285,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Riverbank Stabilization for Water Treatment Plant",
+      "description": "Water Treatment Plant Riverbank Stabilization",
       "contractor": "",
       "board_action": ""
     },
@@ -304,7 +304,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Improvements to Bethel Water System",
+      "description": "Bethel Water System Improvements",
       "contractor": "",
       "board_action": ""
     },
@@ -323,7 +323,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Relocations of Water Main on Elm Street",
+      "description": "Elm Street Water Main Relocations",
       "contractor": "",
       "board_action": ""
     },
@@ -342,7 +342,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Water Main Relocation for NCDOT Memorial Drive Bridge",
+      "description": "NCDOT Memorial Drive Bridge Water Main Relocation",
       "contractor": "",
       "board_action": ""
     },
@@ -361,7 +361,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Phase III of Water Main Rehabilitation",
+      "description": "Water Main Rehab Phase III",
       "contractor": "",
       "board_action": ""
     },
@@ -380,7 +380,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Upgrades to Water Treatment Plant Lab",
+      "description": "WTP Lab Upgrades",
       "contractor": "",
       "board_action": ""
     },
@@ -399,7 +399,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Water Main Extension at Whitehurst Station",
+      "description": "Whitehurst Station Water Main Extension",
       "contractor": "",
       "board_action": ""
     },
@@ -418,7 +418,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "5th Street improvements funded by COG BUILD Grant",
+      "description": "COG BUILD Grant-5th Street",
       "contractor": "",
       "board_action": ""
     },
@@ -437,7 +437,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Widening of 14th Street as part of NCDOT project U-5917",
+      "description": "14th Street Widening (NCDOT U-5917)",
       "contractor": "",
       "board_action": ""
     },
@@ -456,7 +456,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Widening of Allen Road as part of NCDOT project U-5875",
+      "description": "Allen Road Widening (NCDOT U-5875)",
       "contractor": "",
       "board_action": ""
     },
@@ -475,7 +475,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Roundabout at Corey Rd. and Worthington Rd. as part of NCDOT project W-5702M",
+      "description": "Corey Rd./Worthington Rd. Roundabout (NCDOT W-5702M)",
       "contractor": "",
       "board_action": ""
     },
@@ -516,7 +516,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Improvements to the Water Treatment Plant lagoon and impoundment facilities.",
+      "description": "Improvements to the Water Treatment Plant lagoon and impoundment areas.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -531,7 +531,9 @@
       "streets": [],
       "from_street": null,
       "to_street": null,
-      "landmarks": [],
+      "landmarks": [
+        "Southeast Sewer Service Area"
+      ],
       "service_area_name": "Southeast Sewer Service Area",
       "township": null,
       "geometry_hint": "polygon",
@@ -573,7 +575,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Replacement of clarifiers at the Wastewater Treatment Plant.",
+      "description": "Replacement of clarifiers at the wastewater treatment plant.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -588,7 +590,9 @@
       "streets": [],
       "from_street": null,
       "to_street": null,
-      "landmarks": [],
+      "landmarks": [
+        "Bethel"
+      ],
       "service_area_name": null,
       "township": "Bethel",
       "geometry_hint": "polygon",
@@ -640,7 +644,7 @@
       "project_id": "SCP10250",
       "project_type": "sewer",
       "project_name": "Allen Road Widening (NCDOT U-5875)",
-      "budget_amount": 350000,
+      "budget_amount": 10000,
       "budget_amendment": 340000,
       "completion_target": null,
       "status": "planned",
@@ -653,7 +657,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Sewer improvements associated with the Allen Road Widening project.",
+      "description": "Sewer improvements associated with the widening of Allen Road.",
       "contractor": null,
       "board_action": null
     },
@@ -661,7 +665,7 @@
       "project_id": "GCP10108",
       "project_type": "gas",
       "project_name": "Allen Road Widening (NCDOT U-5875)",
-      "budget_amount": 2500000,
+      "budget_amount": 1000000,
       "budget_amendment": 1500000,
       "completion_target": null,
       "status": "planned",
@@ -674,7 +678,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Gas line improvements related to the Allen Road Widening project.",
+      "description": "Gas line adjustments related to the widening of Allen Road.",
       "contractor": null,
       "board_action": null
     },
@@ -682,7 +686,7 @@
       "project_id": "GCP10114",
       "project_type": "gas",
       "project_name": "14th Street Widening (NCDOT U-5917)",
-      "budget_amount": 1000000,
+      "budget_amount": 100000,
       "budget_amendment": 900000,
       "completion_target": null,
       "status": "planned",
@@ -695,7 +699,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Gas line improvements associated with the 14th Street Widening project.",
+      "description": "Gas line adjustments related to the widening of 14th Street.",
       "contractor": null,
       "board_action": null
     }

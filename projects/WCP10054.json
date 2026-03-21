@@ -34,7 +34,7 @@
   "description": "Improvements to the water infrastructure along Dickinson Avenue.",
   "contractor": null,
   "first_seen": "2025-06-15",
-  "last_updated": "2026-03-15",
+  "last_updated": "2026-02-15",
   "meeting_references": [
     {
       "date": "2025-06-15",
@@ -80,6 +80,21 @@
       "date": "2026-03-15",
       "action": null,
       "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
     }
   ]
 }

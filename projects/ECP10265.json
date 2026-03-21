@@ -7,7 +7,7 @@
     "original_amount": 1100000,
     "amendments": []
   },
-  "status": "in_progress",
+  "status": "planned",
   "completion_target": "6/30/2027",
   "actual_completion": null,
   "location": {
@@ -27,7 +27,7 @@
   "description": "Radial Substation Conversion",
   "contractor": null,
   "first_seen": "2025-01-15",
-  "last_updated": "2025-11-15",
+  "last_updated": "2025-06-15",
   "meeting_references": [
     {
       "date": "2025-01-15",
@@ -68,6 +68,31 @@
       "date": "2025-11-15",
       "action": "approved",
       "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "approved",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
     }
   ]
 }

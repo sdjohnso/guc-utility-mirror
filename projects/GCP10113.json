@@ -3,7 +3,7 @@
   "project_type": "gas",
   "project_name": "Evans Street Widening (NCDOT U-2817)",
   "budget": {
-    "current_amount": 1136000,
+    "current_amount": 136000,
     "original_amount": 136000,
     "amendments": [
       {
@@ -35,6 +35,24 @@
         "previous_amount": 136000,
         "new_amount": 1136000,
         "change_amount": 1000000
+      },
+      {
+        "date": "2025-02-15",
+        "previous_amount": 1136000,
+        "new_amount": 136000,
+        "change_amount": -1000000
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 136000,
+        "new_amount": 8300000,
+        "change_amount": 8164000
+      },
+      {
+        "date": "2025-06-15",
+        "previous_amount": 8300000,
+        "new_amount": 136000,
+        "change_amount": -8164000
       }
     ]
   },
@@ -62,7 +80,8 @@
     },
     "street_references": [
       "Evans Street",
-      "Evans St."
+      "Evans St.",
+      "Evans St"
     ],
     "from_street": null,
     "to_street": null,
@@ -167,6 +186,46 @@
     {
       "date": "2026-03-15",
       "action": null,
+      "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "discussed",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "discussed",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": "approved",
       "source_file": "2026-03-15.json"
     }
   ]

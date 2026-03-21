@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-06-15",
-  "extracted_at": "2026-03-14T19:36:39.472686",
+  "extracted_at": "2026-03-21T09:12:07.932698",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -321,7 +321,7 @@
       "budget_amount": 12000000,
       "budget_amendment": 0,
       "completion_target": "6/30/2027",
-      "status": "in_progress",
+      "status": "planned",
       "streets": [],
       "from_street": "",
       "to_street": "",
@@ -329,7 +329,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Phase II of the Boviet substation project.",
+      "description": "Phase II of Boviet substation project.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -367,7 +367,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Stabilization project for the water treatment plant riverbank.",
+      "description": "Stabilization of the riverbank at the water treatment plant.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -386,7 +386,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Improvements to the Bethel water system.",
+      "description": "Improvements to the water system in Bethel.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -405,7 +405,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Phase III of the water main rehabilitation.",
+      "description": "Rehabilitation of water mains.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -462,7 +462,7 @@
       "service_area_name": "Southeast Sewer Service Area",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Sewer service area project in the Southeast.",
+      "description": "Improvements in the Southeast Sewer Service Area.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -517,9 +517,9 @@
       "to_street": "",
       "landmarks": [],
       "service_area_name": "",
-      "township": "",
+      "township": "Bethel",
       "geometry_hint": "polygon",
-      "description": "Improvements to the Bethel wastewater system.",
+      "description": "Improvements to the wastewater system in Bethel.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -538,7 +538,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Improvements to the sewer system for industrial and commercial areas.",
+      "description": "Improvements to sewer systems for industrial and commercial areas.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -595,7 +595,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Improvements to the Frog Level pump station.",
+      "description": "Improvements to Frog Level pump station.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -675,7 +675,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening of Evans Street as part of NCDOT project U-2817.",
+      "description": "Widening of Evans Street as part of NCDOT project.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -713,7 +713,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Improvements to the gas system for industrial and commercial customers.",
+      "description": "Improvements to the gas system for industrial and commercial use.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -793,7 +793,7 @@
       "service_area_name": null,
       "township": "Greenville",
       "geometry_hint": "point",
-      "description": "Phase III of the integrity management replacement project for gas infrastructure.",
+      "description": "Phase III of the Integrity Management Replacement Project for gas infrastructure.",
       "contractor": null,
       "board_action": "approved"
     }
