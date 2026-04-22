@@ -5,10 +5,35 @@
   "budget": {
     "current_amount": 250000,
     "original_amount": 250000,
-    "amendments": []
+    "amendments": [
+      {
+        "date": "2025-10-15",
+        "previous_amount": 250000,
+        "new_amount": 125000,
+        "change_amount": -125000
+      },
+      {
+        "date": "2025-06-15",
+        "previous_amount": 125000,
+        "new_amount": 250000,
+        "change_amount": 125000
+      },
+      {
+        "date": "2025-10-15",
+        "previous_amount": 250000,
+        "new_amount": 125000,
+        "change_amount": -125000
+      },
+      {
+        "date": "2026-02-15",
+        "previous_amount": 125000,
+        "new_amount": 250000,
+        "change_amount": 125000
+      }
+    ]
   },
   "status": "planned",
-  "completion_target": "7/1/2026",
+  "completion_target": "12/31/2029",
   "actual_completion": null,
   "location": {
     "geometry_type": "point",
@@ -90,6 +115,36 @@
       "date": "2026-01-15",
       "action": "approved",
       "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": null,
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": null,
+      "source_file": "2025-10-15.json"
     },
     {
       "date": "2026-02-15",

@@ -3,7 +3,7 @@
   "project_type": "sewer",
   "project_name": "Sewer System Extensions Phase I",
   "budget": {
-    "current_amount": 3244000,
+    "current_amount": 2861650,
     "original_amount": 3244000,
     "amendments": [
       {
@@ -47,10 +47,16 @@
         "previous_amount": 2861650,
         "new_amount": 3244000,
         "change_amount": 382350
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 3244000,
+        "new_amount": 2861650,
+        "change_amount": -382350
       }
     ]
   },
-  "status": "in_progress",
+  "status": "planned",
   "completion_target": "6/30/2023",
   "actual_completion": null,
   "location": {
@@ -70,7 +76,7 @@
   "description": "Phase I of sewer system extensions.",
   "contractor": null,
   "first_seen": "2025-01-15",
-  "last_updated": "2025-12-26",
+  "last_updated": "2025-04-15",
   "meeting_references": [
     {
       "date": "2025-01-15",
@@ -131,6 +137,26 @@
       "date": "2025-12-26",
       "action": "approved",
       "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
     }
   ]
 }

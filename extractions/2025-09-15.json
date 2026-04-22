@@ -1,11 +1,11 @@
 {
   "meeting_date": "2025-09-15",
-  "extracted_at": "2026-03-21T09:16:13.281451",
+  "extracted_at": "2026-04-22T06:12:52.517529",
   "projects": [
     {
       "project_id": "FCP10245",
       "project_type": "electric",
-      "project_name": "Admin HVAC Upgrades",
+      "project_name": "Admin HVAC Upgrades Project",
       "budget_amount": 2500000,
       "budget_amendment": 0,
       "completion_target": "6/30/2026",
@@ -37,25 +37,6 @@
       "township": null,
       "geometry_hint": "point",
       "description": "New Operations Center Phase 2",
-      "contractor": null,
-      "board_action": "approved"
-    },
-    {
-      "project_id": "MCP10267",
-      "project_type": "electric",
-      "project_name": "Advanced Meter Infrastructure",
-      "budget_amount": 49000000,
-      "budget_amendment": 0,
-      "completion_target": "6/30/2035",
-      "status": "planned",
-      "streets": [],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "polygon",
-      "description": "Advanced Meter Infrastructure project",
       "contractor": null,
       "board_action": "approved"
     },
@@ -93,7 +74,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Replacement of Peak Shaving Generator(s)",
+      "description": "Peak Shaving Generator(s) Replacement",
       "contractor": null,
       "board_action": "approved"
     },
@@ -112,7 +93,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Replacement of Transmission Structures",
+      "description": "Transmission Structure Replacement(s)",
       "contractor": null,
       "board_action": "approved"
     },
@@ -131,7 +112,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Hudson\u2019s Crossroads project",
+      "description": "Hudson\u2019s Crossroads",
       "contractor": null,
       "board_action": "approved"
     },
@@ -150,7 +131,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "line",
-      "description": "Widening of Evans Street.",
+      "description": "Evans St. Widening project",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -169,7 +150,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Relocation of high-pressure gas facilities.",
+      "description": "Relocation of high-pressure gas facilities",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -188,7 +169,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "line",
-      "description": "Widening of Firetower Road.",
+      "description": "Widening of Firetower Road",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -197,9 +178,9 @@
       "project_type": "gas",
       "project_name": "Allen Road Widening",
       "budget_amount": 1000000,
-      "budget_amendment": 660,
+      "budget_amendment": 0,
       "completion_target": "6/30/2027",
-      "status": "in_progress",
+      "status": "planned",
       "streets": [],
       "from_street": null,
       "to_street": null,
@@ -207,7 +188,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "line",
-      "description": "Widening of Allen Road.",
+      "description": "Widening of Allen Road",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -216,9 +197,9 @@
       "project_type": "gas",
       "project_name": "Evans Street Widening",
       "budget_amount": 136000,
-      "budget_amendment": 101,
+      "budget_amendment": 0,
       "completion_target": "6/30/2028",
-      "status": "in_progress",
+      "status": "planned",
       "streets": [],
       "from_street": null,
       "to_street": null,
@@ -226,7 +207,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "line",
-      "description": "Widening of Evans Street.",
+      "description": "Widening of Evans Street",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -245,7 +226,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "line",
-      "description": "Widening of 14th Street.",
+      "description": "Widening of 14th Street",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -264,7 +245,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Improvements to the gas system for industrial and commercial use.",
+      "description": "Improvements to gas system for industry and commercial use",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -283,7 +264,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Phase III of the Integrity Management Replacement Project.",
+      "description": "Phase III of Integrity Management Replacement Project",
       "contractor": null,
       "board_action": "discussed"
     }

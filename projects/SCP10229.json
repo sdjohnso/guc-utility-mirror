@@ -3,9 +3,16 @@
   "project_type": "sewer",
   "project_name": "Greene Street Pump Station and Force Main",
   "budget": {
-    "current_amount": 2200000,
+    "current_amount": 1100000,
     "original_amount": 2200000,
-    "amendments": []
+    "amendments": [
+      {
+        "date": "2025-12-26",
+        "previous_amount": 2200000,
+        "new_amount": 1100000,
+        "change_amount": -1100000
+      }
+    ]
   },
   "status": "completed",
   "completion_target": "12/31/2022",
@@ -29,6 +36,11 @@
   "first_seen": "2025-12-26",
   "last_updated": "2025-12-26",
   "meeting_references": [
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
     {
       "date": "2025-12-26",
       "action": "approved",

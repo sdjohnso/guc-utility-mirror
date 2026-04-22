@@ -32,7 +32,7 @@
       }
     ]
   },
-  "status": "in_progress",
+  "status": "completed",
   "completion_target": "6/1/2023",
   "actual_completion": null,
   "location": {
@@ -83,6 +83,11 @@
       "date": "2025-06-15",
       "action": "discussed",
       "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
     },
     {
       "date": "2025-12-26",

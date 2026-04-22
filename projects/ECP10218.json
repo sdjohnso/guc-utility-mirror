@@ -47,6 +47,30 @@
         "previous_amount": 12692000,
         "new_amount": 8892000,
         "change_amount": -3800000
+      },
+      {
+        "date": "2025-01-15",
+        "previous_amount": 8892000,
+        "new_amount": 12692000,
+        "change_amount": 3800000
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 12692000,
+        "new_amount": 8892000,
+        "change_amount": -3800000
+      },
+      {
+        "date": "2025-07-15",
+        "previous_amount": 8892000,
+        "new_amount": 12692000,
+        "change_amount": 395
+      },
+      {
+        "date": "2025-12-26",
+        "previous_amount": 12692000,
+        "new_amount": 8892000,
+        "change_amount": -3800000
       }
     ]
   },
@@ -156,6 +180,66 @@
       "date": "2025-06-15",
       "action": "discussed",
       "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "approved",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
     },
     {
       "date": "2025-07-15",

@@ -41,6 +41,54 @@
         "previous_amount": 2500000,
         "new_amount": 500000,
         "change_amount": -2000000
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 500000,
+        "new_amount": 257159,
+        "change_amount": -242841
+      },
+      {
+        "date": "2025-01-15",
+        "previous_amount": 257159,
+        "new_amount": 500000,
+        "change_amount": 242841
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 500000,
+        "new_amount": 257159,
+        "change_amount": -242841
+      },
+      {
+        "date": "2025-07-15",
+        "previous_amount": 257159,
+        "new_amount": 500000,
+        "change_amount": 43225
+      },
+      {
+        "date": "2025-10-15",
+        "previous_amount": 500000,
+        "new_amount": 2500000,
+        "change_amount": 2000000
+      },
+      {
+        "date": "2025-11-15",
+        "previous_amount": 2500000,
+        "new_amount": 500000,
+        "change_amount": -2000000
+      },
+      {
+        "date": "2025-10-15",
+        "previous_amount": 500000,
+        "new_amount": 2500000,
+        "change_amount": 2000000
+      },
+      {
+        "date": "2026-02-15",
+        "previous_amount": 2500000,
+        "new_amount": 500000,
+        "change_amount": -2000000
       }
     ]
   },
@@ -54,7 +102,9 @@
     "street_references": [],
     "from_street": null,
     "to_street": null,
-    "landmarks": [],
+    "landmarks": [
+      "Duplex Pump Station"
+    ],
     "service_area_name": "Southeast Sewer Service Area",
     "township": null,
     "estimated_radius_miles": 0.25,
@@ -64,7 +114,7 @@
   "description": "Improvements to the Duplex Pump Station.",
   "contractor": null,
   "first_seen": "2025-01-15",
-  "last_updated": "2026-01-15",
+  "last_updated": "2025-11-15",
   "meeting_references": [
     {
       "date": "2025-01-15",
@@ -200,6 +250,96 @@
       "date": "2026-01-15",
       "action": "approved",
       "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "discussed",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": null,
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "discussed",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": null,
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "discussed",
+      "source_file": "2025-11-15.json"
     }
   ]
 }

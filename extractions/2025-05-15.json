@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-05-15",
-  "extracted_at": "2026-03-21T09:09:07.359637",
+  "extracted_at": "2026-04-22T06:06:00.240319",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -13,9 +13,7 @@
       "streets": [],
       "from_street": "",
       "to_street": "",
-      "landmarks": [
-        "Simpson Substation"
-      ],
+      "landmarks": [],
       "service_area_name": "",
       "township": "",
       "geometry_hint": "line",
@@ -488,8 +486,8 @@
       "completion_target": "12/31/2031",
       "status": "planned",
       "streets": [
-        "Firetower Rd.",
-        "Portertown Rd."
+        "Firetower Road",
+        "Portertown Road"
       ],
       "from_street": null,
       "to_street": null,
@@ -531,13 +529,11 @@
       "streets": [],
       "from_street": null,
       "to_street": null,
-      "landmarks": [
-        "Southeast Sewer Service Area"
-      ],
+      "landmarks": [],
       "service_area_name": "Southeast Sewer Service Area",
       "township": null,
       "geometry_hint": "polygon",
-      "description": "Improvements to the sewer system in the Southeast Sewer Service Area.",
+      "description": "Improvements and expansions to the Southeast Sewer Service Area.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -556,7 +552,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Improvements to the duplex pump station.",
+      "description": "Improvements to the Duplex Pump Station.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -575,7 +571,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Replacement of clarifiers at the wastewater treatment plant.",
+      "description": "Replacement of clarifiers at the Wastewater Treatment Plant.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -590,9 +586,7 @@
       "streets": [],
       "from_street": null,
       "to_street": null,
-      "landmarks": [
-        "Bethel"
-      ],
+      "landmarks": [],
       "service_area_name": null,
       "township": "Bethel",
       "geometry_hint": "polygon",
@@ -659,7 +653,7 @@
       "geometry_hint": "corridor",
       "description": "Sewer improvements associated with the widening of Allen Road.",
       "contractor": null,
-      "board_action": null
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10108",
@@ -680,7 +674,7 @@
       "geometry_hint": "corridor",
       "description": "Gas line adjustments related to the widening of Allen Road.",
       "contractor": null,
-      "board_action": null
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10114",
@@ -701,7 +695,7 @@
       "geometry_hint": "corridor",
       "description": "Gas line adjustments related to the widening of 14th Street.",
       "contractor": null,
-      "board_action": null
+      "board_action": "approved"
     }
   ]
 }

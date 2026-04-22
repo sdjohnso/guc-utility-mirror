@@ -25,7 +25,7 @@
       "Boviet Substation"
     ],
     "service_area_name": null,
-    "township": null,
+    "township": "Greenville",
     "estimated_radius_miles": 0.25,
     "geocoding_confidence": "medium",
     "geocoding_source": "known_landmark",
@@ -120,6 +120,51 @@
       "date": "2025-12-15",
       "action": "recommended award of bid",
       "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": "approved",
+      "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "recommended award of bid",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
     },
     {
       "date": "2026-03-15",

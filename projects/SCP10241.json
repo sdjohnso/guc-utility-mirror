@@ -101,6 +101,42 @@
         "previous_amount": 3424000,
         "new_amount": 3000000,
         "change_amount": 2184
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 3000000,
+        "new_amount": 1191557,
+        "change_amount": -1808443
+      },
+      {
+        "date": "2025-01-15",
+        "previous_amount": 1191557,
+        "new_amount": 3000000,
+        "change_amount": 1808443
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 3000000,
+        "new_amount": 1191557,
+        "change_amount": -1808443
+      },
+      {
+        "date": "2025-07-15",
+        "previous_amount": 1191557,
+        "new_amount": 3000000,
+        "change_amount": 256966
+      },
+      {
+        "date": "2025-08-15",
+        "previous_amount": 3000000,
+        "new_amount": 6000000,
+        "change_amount": 892191
+      },
+      {
+        "date": "2025-12-26",
+        "previous_amount": 6000000,
+        "new_amount": 3000000,
+        "change_amount": -3000000
       }
     ]
   },
@@ -130,7 +166,7 @@
   "description": "Improvements to the wastewater system in Bethel.",
   "contractor": null,
   "first_seen": "2025-01-15",
-  "last_updated": "2026-01-15",
+  "last_updated": "2025-11-15",
   "meeting_references": [
     {
       "date": "2025-01-15",
@@ -261,6 +297,76 @@
       "date": "2026-01-15",
       "action": "approved",
       "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "discussed",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "discussed",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "discussed",
+      "source_file": "2025-11-15.json"
     }
   ]
 }

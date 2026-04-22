@@ -53,6 +53,54 @@
         "previous_amount": 9500000,
         "new_amount": 1300000,
         "change_amount": -8200000
+      },
+      {
+        "date": "2025-08-15",
+        "previous_amount": 1300000,
+        "new_amount": 9500000,
+        "change_amount": 13990
+      },
+      {
+        "date": "2025-09-15",
+        "previous_amount": 9500000,
+        "new_amount": 1300000,
+        "change_amount": -8200000
+      },
+      {
+        "date": "2025-10-15",
+        "previous_amount": 1300000,
+        "new_amount": 9500000,
+        "change_amount": 8200000
+      },
+      {
+        "date": "2025-06-15",
+        "previous_amount": 9500000,
+        "new_amount": 1300000,
+        "change_amount": -8200000
+      },
+      {
+        "date": "2025-08-15",
+        "previous_amount": 1300000,
+        "new_amount": 9500000,
+        "change_amount": 13990
+      },
+      {
+        "date": "2025-12-26",
+        "previous_amount": 9500000,
+        "new_amount": 1300000,
+        "change_amount": -8200000
+      },
+      {
+        "date": "2025-10-15",
+        "previous_amount": 1300000,
+        "new_amount": 9500000,
+        "change_amount": 8200000
+      },
+      {
+        "date": "2026-02-15",
+        "previous_amount": 9500000,
+        "new_amount": 1300000,
+        "change_amount": -8200000
       }
     ]
   },
@@ -311,6 +359,136 @@
       "date": "2026-01-15",
       "action": "approved",
       "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": "approved",
+      "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": null,
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "approved",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "approved",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "approved",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": null,
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "discussed",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "discussed",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": null,
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "discussed",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "discussed",
+      "source_file": "2025-11-15.json"
     },
     {
       "date": "2026-03-15",
