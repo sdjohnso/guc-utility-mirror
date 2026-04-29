@@ -3,7 +3,7 @@
   "project_type": "electric",
   "project_name": "Mt. Pleasant to Wellcome 115 kV Transmission",
   "budget": {
-    "current_amount": 8892000,
+    "current_amount": 12692000,
     "original_amount": 12692000,
     "amendments": [
       {
@@ -71,11 +71,17 @@
         "previous_amount": 12692000,
         "new_amount": 8892000,
         "change_amount": -3800000
+      },
+      {
+        "date": "2025-01-15",
+        "previous_amount": 8892000,
+        "new_amount": 12692000,
+        "change_amount": 3800000
       }
     ]
   },
   "status": "in_progress",
-  "completion_target": "1/31/2024",
+  "completion_target": "6/30/2025",
   "actual_completion": null,
   "location": {
     "geometry_type": "line",
@@ -94,7 +100,7 @@
   "description": "Mt. Pleasant to Wellcome 115 kV Transmission",
   "contractor": null,
   "first_seen": "2025-01-15",
-  "last_updated": "2025-12-26",
+  "last_updated": "2025-07-15",
   "meeting_references": [
     {
       "date": "2025-01-15",
@@ -250,6 +256,36 @@
       "date": "2025-12-26",
       "action": "approved",
       "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "",
+      "source_file": "2025-07-15.json"
     }
   ]
 }

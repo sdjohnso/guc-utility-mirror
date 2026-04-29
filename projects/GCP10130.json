@@ -1,17 +1,17 @@
 {
-  "project_id": "SCP10251",
-  "project_type": "sewer",
-  "project_name": "NCDOT Firetower/Portertown Rd",
+  "project_id": "GCP10130",
+  "project_type": "gas",
+  "project_name": "Northwestern Loop High-Pressure Gas Main Extension Phase II",
   "budget": {
-    "current_amount": 30000,
-    "original_amount": 30000,
+    "current_amount": 300000,
+    "original_amount": 300000,
     "amendments": []
   },
   "status": "planned",
   "completion_target": null,
   "actual_completion": null,
   "location": {
-    "geometry_type": "polygon",
+    "geometry_type": "line",
     "centroid": null,
     "geometry_json": null,
     "street_references": [],
@@ -24,16 +24,11 @@
     "geocoding_confidence": null,
     "geocoding_source": null
   },
-  "description": "Sewer improvements related to NCDOT Firetower/Portertown Rd.",
+  "description": "Northwestern Loop High-Pressure Gas Main Extension Phase II",
   "contractor": null,
-  "first_seen": "2026-03-15",
+  "first_seen": "2026-04-15",
   "last_updated": "2026-04-15",
   "meeting_references": [
-    {
-      "date": "2026-03-15",
-      "action": null,
-      "source_file": "2026-03-15.json"
-    },
     {
       "date": "2026-04-15",
       "action": null,

@@ -70,7 +70,7 @@
   "description": "Widening project for Evans St. as part of NCDOT improvements.",
   "contractor": null,
   "first_seen": "2026-01-15",
-  "last_updated": "2026-02-15",
+  "last_updated": "2026-04-15",
   "meeting_references": [
     {
       "date": "2026-01-15",
@@ -131,6 +131,31 @@
       "date": "2026-02-15",
       "action": "approved",
       "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "discussed",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "approved",
+      "source_file": "2026-04-15.json"
     }
   ]
 }

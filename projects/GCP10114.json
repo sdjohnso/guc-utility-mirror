@@ -3,7 +3,7 @@
   "project_type": "gas",
   "project_name": "14th Street Widening (NCDOT U-5917)",
   "budget": {
-    "current_amount": 57000,
+    "current_amount": 351958,
     "original_amount": 57000,
     "amendments": [
       {
@@ -143,6 +143,30 @@
         "previous_amount": 100000,
         "new_amount": 57000,
         "change_amount": -43000
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 57000,
+        "new_amount": 898042,
+        "change_amount": 841042
+      },
+      {
+        "date": "2025-05-15",
+        "previous_amount": 898042,
+        "new_amount": 100000,
+        "change_amount": 900000
+      },
+      {
+        "date": "2025-09-15",
+        "previous_amount": 100000,
+        "new_amount": 57000,
+        "change_amount": -43000
+      },
+      {
+        "date": "2026-04-15",
+        "previous_amount": 57000,
+        "new_amount": 351958,
+        "change_amount": 294958
       }
     ]
   },
@@ -173,7 +197,7 @@
   "description": "Widening of 14th Street as part of NCDOT project U-5917.",
   "contractor": null,
   "first_seen": "2025-12-15",
-  "last_updated": "2026-03-15",
+  "last_updated": "2026-04-15",
   "meeting_references": [
     {
       "date": "2025-12-15",
@@ -394,6 +418,71 @@
       "date": "2026-03-15",
       "action": "approved",
       "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": null,
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": "approved",
+      "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "approved",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": null,
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "discussed",
+      "source_file": "2025-09-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": "approved",
+      "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2026-04-15",
+      "action": null,
+      "source_file": "2026-04-15.json"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-02-15",
-  "extracted_at": "2026-04-22T05:58:35.080199",
+  "extracted_at": "2026-04-29T11:32:55.187349",
   "projects": [
     {
       "project_id": "WCP10043",
@@ -16,7 +16,7 @@
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "corridor",
+      "geometry_hint": "line",
       "description": "Recommended Award of Construction Contract for Whitehurst Station Water Main Extension Project",
       "contractor": null,
       "board_action": "approved"
@@ -36,7 +36,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "polygon",
-      "description": "Project funded by American Rescue Plan Act grant for water main rehabilitation.",
+      "description": "The Commission was awarded a $5 million grant from funds the State received from ARPA for the $6 million Water Main Rehabilitation Phase III project.",
       "contractor": null,
       "board_action": "discussed"
     },

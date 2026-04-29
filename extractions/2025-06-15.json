@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-06-15",
-  "extracted_at": "2026-04-22T06:09:10.706398",
+  "extracted_at": "2026-04-29T11:45:14.006281",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -144,14 +144,14 @@
       "completion_target": "12/30/2025",
       "status": "in_progress",
       "streets": [],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "point",
-      "description": "Relocation of high-pressure multiple gas facilities.",
-      "contractor": null,
+      "description": "Relocation of high-pressure gas facilities.",
+      "contractor": "",
       "board_action": "discussed"
     },
     {
@@ -165,14 +165,14 @@
       "streets": [
         "Firetower Road"
       ],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "corridor",
       "description": "Widening of Firetower Road.",
-      "contractor": null,
+      "contractor": "",
       "board_action": "approved"
     },
     {
@@ -186,14 +186,14 @@
       "streets": [
         "Evans Street"
       ],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "corridor",
-      "description": "Widening of Evans Street as part of NCDOT project U-2817.",
-      "contractor": null,
+      "description": "Widening of Evans Street as part of NCDOT project.",
+      "contractor": "",
       "board_action": "approved"
     },
     {
@@ -205,14 +205,14 @@
       "completion_target": "6/30/2028",
       "status": "planned",
       "streets": [],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "point",
       "description": "Phase II of the Integrity Management Replacement project.",
-      "contractor": null,
+      "contractor": "",
       "board_action": "approved"
     },
     {
@@ -224,15 +224,15 @@
       "completion_target": "6/30/2025",
       "status": "in_progress",
       "streets": [],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "point",
       "description": "Improvements to the gas system for industrial and commercial use.",
-      "contractor": null,
-      "board_action": "amended"
+      "contractor": "",
+      "board_action": "approved"
     },
     {
       "project_id": "WCP10054",

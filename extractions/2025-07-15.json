@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-07-15",
-  "extracted_at": "2026-04-22T06:09:58.011142",
+  "extracted_at": "2026-04-29T11:46:17.596614",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -75,6 +75,25 @@
       "township": "",
       "geometry_hint": "point",
       "description": "Transmission Structure Replacement(s)",
+      "contractor": "",
+      "board_action": ""
+    },
+    {
+      "project_id": "WCP-124",
+      "project_type": "water",
+      "project_name": "Residual Lagoon Improvements",
+      "budget_amount": 1750000,
+      "budget_amendment": 0,
+      "completion_target": "6/30/2026",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "point",
+      "description": "Residual Lagoon Improvements",
       "contractor": "",
       "board_action": ""
     },
@@ -174,6 +193,82 @@
       "board_action": ""
     },
     {
+      "project_id": "WCP10046",
+      "project_type": "water",
+      "project_name": "14th Street Widening (NCDOT U-5917)",
+      "budget_amount": 45000,
+      "budget_amendment": 0,
+      "completion_target": "12/31/2028",
+      "status": "planned",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "corridor",
+      "description": "14th Street Widening project as part of NCDOT U-5917.",
+      "contractor": null,
+      "board_action": null
+    },
+    {
+      "project_id": "WCP10047",
+      "project_type": "water",
+      "project_name": "Allen Road Widening (NCDOT U-5875)",
+      "budget_amount": 10000,
+      "budget_amendment": 0,
+      "completion_target": "12/31/2026",
+      "status": "planned",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "corridor",
+      "description": "Allen Road Widening project as part of NCDOT U-5875.",
+      "contractor": null,
+      "board_action": null
+    },
+    {
+      "project_id": "WCP10048",
+      "project_type": "water",
+      "project_name": "Corey Rd./Worthington Rd. Roundabout (NCDOT W-5702M)",
+      "budget_amount": 150000,
+      "budget_amendment": 0,
+      "completion_target": "12/31/2025",
+      "status": "planned",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "point",
+      "description": "Corey Rd./Worthington Rd. Roundabout project as part of NCDOT W-5702M.",
+      "contractor": null,
+      "board_action": null
+    },
+    {
+      "project_id": "WCP10049",
+      "project_type": "water",
+      "project_name": "Firetower/Portertown Rd. (NCDOT U-5785/5870)",
+      "budget_amount": 65000,
+      "budget_amendment": 0,
+      "completion_target": "12/31/2031",
+      "status": "planned",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "corridor",
+      "description": "Firetower/Portertown Rd. project as part of NCDOT U-5785/5870.",
+      "contractor": null,
+      "board_action": null
+    },
+    {
       "project_id": "SCP10221",
       "project_type": "sewer",
       "project_name": "Southeast Sewer Service Area Project",
@@ -188,9 +283,9 @@
       "service_area_name": "Southeast Sewer Service Area",
       "township": null,
       "geometry_hint": "polygon",
-      "description": "Southeast Sewer Service Area Project",
+      "description": "Improvements to the Southeast Sewer Service Area.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
     },
     {
       "project_id": "SCP10235",
@@ -207,28 +302,28 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Improvements to the Duplex Pump Station",
+      "description": "Improvements to the Duplex Pump Station.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
     },
     {
       "project_id": "SCP10241",
       "project_type": "sewer",
-      "project_name": "Bethel Wastewater System Improvements",
-      "budget_amount": 3000000,
-      "budget_amendment": 256966,
-      "completion_target": "12/31/2025",
+      "project_name": "WWTP Clarifier Replacement Project",
+      "budget_amount": 6000000,
+      "budget_amendment": 730464,
+      "completion_target": "6/30/2026",
       "status": "in_progress",
       "streets": [],
       "from_street": null,
       "to_street": null,
       "landmarks": [],
       "service_area_name": null,
-      "township": "Bethel",
-      "geometry_hint": "polygon",
-      "description": "Improvements to the Bethel Wastewater System",
+      "township": null,
+      "geometry_hint": "point",
+      "description": "Replacement of clarifiers at the Wastewater Treatment Plant.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
     },
     {
       "project_id": "GCP10099",
@@ -245,9 +340,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Relocation of high-pressure gas facilities",
+      "description": "Relocation of high-pressure gas facilities.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
     },
     {
       "project_id": "GCP10101",
@@ -257,18 +352,35 @@
       "budget_amendment": 0,
       "completion_target": "6/30/2030",
       "status": "planned",
-      "streets": [
-        "Firetower Road"
-      ],
+      "streets": [],
       "from_street": null,
       "to_street": null,
       "landmarks": [],
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening of Firetower Road",
+      "description": "Widening of Firetower Road.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
+    },
+    {
+      "project_id": "GCP10108",
+      "project_type": "gas",
+      "project_name": "Allen Road Widening (NCDOT U-5875)",
+      "budget_amount": 1000000,
+      "budget_amendment": 891,
+      "completion_target": "6/30/2027",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "corridor",
+      "description": "Widening of Allen Road as part of NCDOT U-5875.",
+      "contractor": null,
+      "board_action": null
     }
   ]
 }

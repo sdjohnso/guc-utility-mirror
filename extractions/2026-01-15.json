@@ -1,6 +1,6 @@
 {
   "meeting_date": "2026-01-15",
-  "extracted_at": "2026-04-22T06:13:05.155535",
+  "extracted_at": "2026-04-29T11:56:01.472490",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -74,7 +74,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Improvements at Hudson\u2019s Crossroads for better service.",
+      "description": "Improvements at Hudson's Crossroads for better service.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -117,25 +117,6 @@
       "board_action": "approved"
     },
     {
-      "project_id": "WCP-124",
-      "project_type": "water",
-      "project_name": "Residual Lagoon Improvements",
-      "budget_amount": 1750000,
-      "budget_amendment": 0,
-      "completion_target": "6/30/2026",
-      "status": "completed",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "point",
-      "description": "Improvements to the residual lagoon for better efficiency.",
-      "contractor": "",
-      "board_action": "approved"
-    },
-    {
       "project_id": "WCP10030",
       "project_type": "water",
       "project_name": "Water Distribution System Improvements",
@@ -161,7 +142,7 @@
       "budget_amount": 1500000,
       "budget_amendment": 0,
       "completion_target": "6/30/2026",
-      "status": "completed",
+      "status": "in_progress",
       "streets": [],
       "from_street": "",
       "to_street": "",
@@ -169,7 +150,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Stabilization of the riverbank at the water treatment plant.",
+      "description": "Stabilization of riverbank at the water treatment plant.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -186,7 +167,7 @@
       "to_street": "",
       "landmarks": [],
       "service_area_name": "",
-      "township": "Bethel",
+      "township": "",
       "geometry_hint": "polygon",
       "description": "Improvements to the water system in Bethel.",
       "contractor": "",
@@ -418,7 +399,7 @@
       "budget_amount": 9500000,
       "budget_amendment": 10380,
       "completion_target": "6/8/2017",
-      "status": "completed",
+      "status": "in_progress",
       "streets": [],
       "from_street": null,
       "to_street": null,

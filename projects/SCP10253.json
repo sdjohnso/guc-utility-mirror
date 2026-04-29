@@ -46,7 +46,7 @@
   "description": "Sewer improvements at the intersection of Corey and Worthington.",
   "contractor": null,
   "first_seen": "2025-04-15",
-  "last_updated": "2025-04-15",
+  "last_updated": "2025-03-15",
   "meeting_references": [
     {
       "date": "2025-04-15",
@@ -82,6 +82,11 @@
       "date": "2025-04-15",
       "action": null,
       "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
     }
   ]
 }

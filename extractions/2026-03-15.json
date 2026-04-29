@@ -1,6 +1,6 @@
 {
   "meeting_date": "2026-03-15",
-  "extracted_at": "2026-04-22T06:16:47.769134",
+  "extracted_at": "2026-04-29T11:59:22.001944",
   "projects": [
     {
       "project_id": "MCP10267",
@@ -17,7 +17,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "polygon",
-      "description": "Implementation of Advanced Metering Infrastructure (AMI) to support customer growth and maintenance needs.",
+      "description": "Implementation of Advanced Metering Infrastructure to support customer growth and maintenance needs.",
       "contractor": "Sensus-Xylem",
       "board_action": "approved"
     },

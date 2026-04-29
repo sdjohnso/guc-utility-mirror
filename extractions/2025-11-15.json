@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-11-15",
-  "extracted_at": "2026-04-22T06:15:41.477375",
+  "extracted_at": "2026-04-29T11:51:56.668487",
   "projects": [
     {
       "project_id": "ECP10276",
@@ -20,7 +20,7 @@
       "service_area_name": null,
       "township": "Pactolus",
       "geometry_hint": "point",
-      "description": "Electric Capital Project ECP-10276\u2019s approved budget is $4,300,000.00 for the purchase of two 2 Megawatt Peak Shaving Generators.",
+      "description": "Recommended Approval to Purchase Two (2) \u2013 2 Megawatt (MW) Peak Shaving Generators for the Boviet Substation.",
       "contractor": null,
       "board_action": "recommended approval"
     },
@@ -272,6 +272,25 @@
       "board_action": "approved"
     },
     {
+      "project_id": "WCP10036",
+      "project_type": "water",
+      "project_name": "Elm Street Water Main Relocations",
+      "budget_amount": 575000,
+      "budget_amendment": 0,
+      "completion_target": "1/1/2028",
+      "status": "planned",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "line",
+      "description": "Elm Street Water Main Relocations",
+      "contractor": "",
+      "board_action": "approved"
+    },
+    {
       "project_id": "WCP10039",
       "project_type": "water",
       "project_name": "Water Main Rehab Phase III",
@@ -285,8 +304,27 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "polygon",
+      "geometry_hint": "line",
       "description": "Water Main Rehab Phase III",
+      "contractor": "",
+      "board_action": "approved"
+    },
+    {
+      "project_id": "WCP10040",
+      "project_type": "water",
+      "project_name": "WTP Lab Upgrades",
+      "budget_amount": 2000000,
+      "budget_amendment": 0,
+      "completion_target": "12/31/2026",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "point",
+      "description": "WTP Lab Upgrades",
       "contractor": "",
       "board_action": "approved"
     },
@@ -304,8 +342,46 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
+      "geometry_hint": "line",
       "description": "Whitehurst Station Water Main Extension",
+      "contractor": "",
+      "board_action": "approved"
+    },
+    {
+      "project_id": "WCP10044",
+      "project_type": "water",
+      "project_name": "COG BUILD Grant-5th Street",
+      "budget_amount": 2650000,
+      "budget_amendment": 0,
+      "completion_target": "6/30/2028",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "polygon",
+      "description": "COG BUILD Grant-5th Street",
+      "contractor": "",
+      "board_action": "approved"
+    },
+    {
+      "project_id": "WCP10047",
+      "project_type": "water",
+      "project_name": "Corey Rd./Worthington Rd. Roundabout (NCDOT W-5702M)",
+      "budget_amount": 150000,
+      "budget_amendment": 0,
+      "completion_target": "12/31/2025",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "point",
+      "description": "Corey Rd./Worthington Rd. Roundabout (NCDOT W-5702M)",
       "contractor": "",
       "board_action": "approved"
     },
@@ -329,6 +405,44 @@
       "board_action": "approved"
     },
     {
+      "project_id": "WCP10054",
+      "project_type": "water",
+      "project_name": "NCDOT Dickinson Ave. Water Improvements",
+      "budget_amount": 250000,
+      "budget_amendment": 0,
+      "completion_target": "7/1/2026",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "point",
+      "description": "NCDOT Dickinson Ave. Water Improvements",
+      "contractor": "",
+      "board_action": "approved"
+    },
+    {
+      "project_id": "WCP10055",
+      "project_type": "water",
+      "project_name": "WTP Filter Improvements",
+      "budget_amount": 5500000,
+      "budget_amendment": 0,
+      "completion_target": "7/1/2029",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "point",
+      "description": "WTP Filter Improvements",
+      "contractor": "",
+      "board_action": "approved"
+    },
+    {
       "project_id": "SCP10221",
       "project_type": "sewer",
       "project_name": "Southeast Sewer Service Area Project",
@@ -348,25 +462,6 @@
       "board_action": "approved"
     },
     {
-      "project_id": "WCP10055",
-      "project_type": "water",
-      "project_name": "WTP Filter Improvements",
-      "budget_amount": 5500000,
-      "budget_amendment": 150492,
-      "completion_target": "7/1/2029",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "point",
-      "description": "WTP Filter Improvements",
-      "contractor": null,
-      "board_action": "discussed"
-    },
-    {
       "project_id": "SCP10235",
       "project_type": "sewer",
       "project_name": "Duplex Pump Station Improvements",
@@ -383,7 +478,7 @@
       "geometry_hint": "point",
       "description": "Duplex Pump Station Improvements",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "SCP10238",
@@ -402,7 +497,7 @@
       "geometry_hint": "point",
       "description": "WWTP Clarifier Replacement Project",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "SCP10241",
@@ -418,10 +513,10 @@
       "landmarks": [],
       "service_area_name": null,
       "township": "Bethel",
-      "geometry_hint": "point",
+      "geometry_hint": "polygon",
       "description": "Bethel Wastewater System Improvements",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10099",
@@ -440,7 +535,7 @@
       "geometry_hint": "point",
       "description": "High-Pressure Multiple Gas Facilities Relocation",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10101",
@@ -456,10 +551,10 @@
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "point",
+      "geometry_hint": "line",
       "description": "Firetower Road Widening",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10124",
@@ -478,7 +573,7 @@
       "geometry_hint": "point",
       "description": "Gas System Improvements for Industry and Commercial",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": "approved"
     }
   ]
 }

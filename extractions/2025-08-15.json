@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-08-15",
-  "extracted_at": "2026-04-22T06:10:54.019407",
+  "extracted_at": "2026-04-29T11:47:11.394189",
   "projects": [
     {
       "project_id": "WCP10040",
@@ -9,7 +9,7 @@
       "budget_amount": null,
       "budget_amendment": null,
       "completion_target": null,
-      "status": "in_progress",
+      "status": "planned",
       "streets": [],
       "from_street": null,
       "to_street": null,
@@ -40,6 +40,25 @@
       "geometry_hint": "point",
       "description": "The Admin HVAC Upgrades Project aims to modernize and replace outdated air conditioning, heating, ventilation, and mechanical equipment and controls for the 2nd and 3rd floors of the Administration Building.",
       "contractor": "Muter Construction, LLC",
+      "board_action": "approved"
+    },
+    {
+      "project_id": "WCP-124",
+      "project_type": "water",
+      "project_name": "Residual Lagoon Improvements",
+      "budget_amount": 1750000,
+      "budget_amendment": 0,
+      "completion_target": "6/30/2026",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "point",
+      "description": "Improvements to the residual lagoon.",
+      "contractor": null,
       "board_action": "approved"
     },
     {
@@ -75,7 +94,7 @@
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "polygon",
+      "geometry_hint": "point",
       "description": "Stabilization of the riverbank at the water treatment plant.",
       "contractor": null,
       "board_action": "approved"
@@ -133,7 +152,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "line",
-      "description": "Relocation of water main due to NCDOT Memorial Drive Bridge project.",
+      "description": "Relocation of the water main for the Memorial Drive Bridge.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -161,19 +180,21 @@
       "project_type": "water",
       "project_name": "WTP Lab Upgrades",
       "budget_amount": 1000000,
-      "budget_amendment": 0,
+      "budget_amendment": null,
       "completion_target": "12/31/2025",
       "status": "planned",
       "streets": [],
       "from_street": null,
       "to_street": null,
-      "landmarks": [],
+      "landmarks": [
+        "Water Treatment Plant"
+      ],
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Upgrades to the Water Treatment Plant laboratory.",
+      "description": "Upgrades to the laboratory facilities at the Water Treatment Plant.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "WCP10044",
@@ -186,32 +207,36 @@
       "streets": [],
       "from_street": null,
       "to_street": null,
-      "landmarks": [],
+      "landmarks": [
+        "Whitehurst Station"
+      ],
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Extension of water main to Whitehurst Station.",
+      "description": "Extension of the water main to serve the Whitehurst Station area.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "WCP10045",
       "project_type": "water",
       "project_name": "COG BUILD Grant-5th Street",
       "budget_amount": 2650000,
-      "budget_amendment": 0,
+      "budget_amendment": null,
       "completion_target": "6/30/2028",
       "status": "planned",
-      "streets": [],
+      "streets": [
+        "5th Street"
+      ],
       "from_street": null,
       "to_street": null,
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "polygon",
-      "description": "Funding for improvements along 5th Street.",
+      "geometry_hint": "corridor",
+      "description": "Project funded by COG BUILD Grant for improvements along 5th Street.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "SCP10221",
@@ -224,35 +249,39 @@
       "streets": [],
       "from_street": null,
       "to_street": null,
-      "landmarks": [],
+      "landmarks": [
+        "Southeast Sewer Service Area"
+      ],
       "service_area_name": "Southeast Sewer Service Area",
       "township": null,
       "geometry_hint": "polygon",
-      "description": "Improvements to the Southeast Sewer Service Area.",
+      "description": "Improvements to the sewer system in the Southeast Sewer Service Area.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "SCP10235",
       "project_type": "sewer",
       "project_name": "Duplex Pump Station Improvements",
       "budget_amount": 500000,
-      "budget_amendment": 0,
+      "budget_amendment": null,
       "completion_target": "6/30/2026",
       "status": "in_progress",
       "streets": [],
       "from_street": null,
       "to_street": null,
-      "landmarks": [],
+      "landmarks": [
+        "Duplex Pump Station"
+      ],
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
       "description": "Improvements to the Duplex Pump Station.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
-      "project_id": "SCP10241",
+      "project_id": "SCP10238",
       "project_type": "sewer",
       "project_name": "WWTP Clarifier Replacement Project",
       "budget_amount": 6000000,
@@ -262,13 +291,15 @@
       "streets": [],
       "from_street": null,
       "to_street": null,
-      "landmarks": [],
+      "landmarks": [
+        "Wastewater Treatment Plant"
+      ],
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
       "description": "Replacement of clarifiers at the Wastewater Treatment Plant.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "GCP10099",
@@ -285,9 +316,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Expansion of LNG facilities.",
+      "description": "Expansion of the LNG facilities.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "GCP10101",
@@ -306,7 +337,28 @@
       "geometry_hint": "point",
       "description": "Relocation of multiple high-pressure gas facilities.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
+    },
+    {
+      "project_id": "GCP10108",
+      "project_type": "gas",
+      "project_name": "Firetower Road Widening",
+      "budget_amount": 1300000,
+      "budget_amendment": null,
+      "completion_target": "6/30/2030",
+      "status": "planned",
+      "streets": [
+        "Firetower Road"
+      ],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "corridor",
+      "description": "Widening of Firetower Road to accommodate gas infrastructure.",
+      "contractor": null,
+      "board_action": null
     }
   ]
 }

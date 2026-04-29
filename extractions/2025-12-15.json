@@ -1,11 +1,11 @@
 {
   "meeting_date": "2025-12-15",
-  "extracted_at": "2026-04-22T06:10:10.196416",
+  "extracted_at": "2026-04-29T11:53:51.026707",
   "projects": [
     {
       "project_id": "ECP-10276",
       "project_type": "electric",
-      "project_name": "Purchase of Two 2 Megawatt Peak Shaving Generators for the Boviet Substation",
+      "project_name": "Purchase Two 2 Megawatt Peak Shaving Generators for the Boviet Substation",
       "budget_amount": null,
       "budget_amendment": null,
       "completion_target": null,
@@ -20,14 +20,14 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Purchase of two 2 Megawatt Peak Shaving Generators for the Boviet Substation.",
+      "description": "Purchase of generators for the Boviet Substation.",
       "contractor": null,
       "board_action": "approved"
     },
     {
       "project_id": "ECP-10277",
       "project_type": "electric",
-      "project_name": "Construction of 60 MVA Distribution Substation at Boviet",
+      "project_name": "Build a 60 MVA Distribution Substation Adjacent to Boviet Solar Technologies",
       "budget_amount": 12000000,
       "budget_amendment": null,
       "completion_target": null,
@@ -42,7 +42,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Funding to build a 60 MVA distribution substation on a parcel adjacent to Boviet Solar Technologies.",
+      "description": "Funding to build a new electric substation to allow the Phase II interconnection of Boviet Solar to the electric system.",
       "contractor": "Substation Enterprises, Inc.",
       "board_action": "recommended award of bid"
     },
@@ -50,7 +50,7 @@
       "project_id": "ECP10219",
       "project_type": "electric",
       "project_name": "Peak Shaving Generator(s) Replacement",
-      "budget_amount": 15000000,
+      "budget_amount": 15500000,
       "budget_amendment": 0,
       "completion_target": "Q3 2027",
       "status": "in_progress",
@@ -99,7 +99,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Project related to Hudson\u2019s Crossroads.",
+      "description": "Project at Hudson\u2019s Crossroads.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -109,7 +109,7 @@
       "project_name": "POD Transformer Replacement",
       "budget_amount": 5000000,
       "budget_amendment": 0,
-      "completion_target": "Q2 2027",
+      "completion_target": "Q3 2027",
       "status": "in_progress",
       "streets": [],
       "from_street": "",
@@ -156,7 +156,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Relocation of multiple gas facilities to accommodate infrastructure improvements.",
+      "description": "Relocation of high-pressure gas facilities.",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -177,7 +177,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening of Firetower Road to improve traffic flow and safety.",
+      "description": "Widening of Firetower Road.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -259,7 +259,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Phase II of the Integrity Management Replacement project to enhance safety and compliance.",
+      "description": "Phase II of the Integrity Management Replacement project.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -278,7 +278,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Phase III of the Integrity Management Replacement project to further enhance safety and compliance.",
+      "description": "Phase III of the Integrity Management Replacement project.",
       "contractor": null,
       "board_action": "approved"
     }

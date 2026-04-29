@@ -1,0 +1,25 @@
+{
+  "meeting_date": "2026-04-29",
+  "extracted_at": "2026-04-29T12:03:00.347157",
+  "projects": [
+    {
+      "project_id": "WCP10039",
+      "project_type": "water",
+      "project_name": "Water Main Rehabilitation Phase III",
+      "budget_amount": 6000000,
+      "budget_amendment": 0,
+      "completion_target": null,
+      "status": "planned",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "polygon",
+      "description": "The project is funded by a $5 million grant from the American Rescue Plan Act for the Water Main Rehabilitation Phase III.",
+      "contractor": null,
+      "board_action": "adopted"
+    }
+  ]
+}
