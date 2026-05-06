@@ -1,6 +1,6 @@
 {
   "meeting_date": "2026-04-29",
-  "extracted_at": "2026-04-29T12:03:00.347157",
+  "extracted_at": "2026-05-06T11:53:34.089861",
   "projects": [
     {
       "project_id": "WCP10039",
@@ -19,7 +19,7 @@
       "geometry_hint": "polygon",
       "description": "The project is funded by a $5 million grant from the American Rescue Plan Act for the Water Main Rehabilitation Phase III.",
       "contractor": null,
-      "board_action": "adopted"
+      "board_action": "adopted resolution"
     }
   ]
 }

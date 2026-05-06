@@ -3,7 +3,7 @@
   "project_type": "sewer",
   "project_name": "WWTP Headworks Improvements",
   "budget": {
-    "current_amount": 2500000,
+    "current_amount": 4640660,
     "original_amount": 4640660,
     "amendments": [
       {
@@ -11,6 +11,12 @@
         "previous_amount": 4640660,
         "new_amount": 2500000,
         "change_amount": -2140660
+      },
+      {
+        "date": "2025-12-26",
+        "previous_amount": 2500000,
+        "new_amount": 4640660,
+        "change_amount": 2140660
       }
     ]
   },
@@ -40,6 +46,11 @@
   "first_seen": "2025-12-26",
   "last_updated": "2025-12-26",
   "meeting_references": [
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
     {
       "date": "2025-12-26",
       "action": "approved",

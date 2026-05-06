@@ -95,6 +95,30 @@
         "previous_amount": 3182650,
         "new_amount": 2500000,
         "change_amount": -682650
+      },
+      {
+        "date": "2025-01-15",
+        "previous_amount": 2500000,
+        "new_amount": 3182650,
+        "change_amount": 682650
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 3182650,
+        "new_amount": 3200000,
+        "change_amount": 17350
+      },
+      {
+        "date": "2025-06-15",
+        "previous_amount": 3200000,
+        "new_amount": 3182650,
+        "change_amount": -17350
+      },
+      {
+        "date": "2026-04-15",
+        "previous_amount": 3182650,
+        "new_amount": 2500000,
+        "change_amount": -682650
       }
     ]
   },
@@ -298,6 +322,46 @@
     {
       "date": "2025-12-15",
       "action": "approved",
+      "source_file": "2025-12-15.json"
+    },
+    {
+      "date": "2026-03-15",
+      "action": "approved",
+      "source_file": "2026-03-15.json"
+    },
+    {
+      "date": "2026-04-15",
+      "action": null,
+      "source_file": "2026-04-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "adopted resolution accepting grant",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "approved",
+      "source_file": "2025-02-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "approved",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": null,
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2025-12-15",
+      "action": null,
       "source_file": "2025-12-15.json"
     },
     {

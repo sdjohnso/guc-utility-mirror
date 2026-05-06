@@ -77,6 +77,18 @@
         "previous_amount": 155868,
         "new_amount": 1500000,
         "change_amount": 1344132
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 1500000,
+        "new_amount": 155868,
+        "change_amount": -1344132
+      },
+      {
+        "date": "2025-04-15",
+        "previous_amount": 155868,
+        "new_amount": 1500000,
+        "change_amount": 1344132
       }
     ]
   },
@@ -424,6 +436,71 @@
     {
       "date": "2026-04-15",
       "action": "approved",
+      "source_file": "2026-04-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "approved",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "approved",
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "",
       "source_file": "2026-04-15.json"
     }
   ]

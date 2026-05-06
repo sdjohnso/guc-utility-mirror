@@ -1,11 +1,11 @@
 {
   "meeting_date": "2025-12-15",
-  "extracted_at": "2026-04-29T11:53:51.026707",
+  "extracted_at": "2026-05-06T11:42:02.378065",
   "projects": [
     {
       "project_id": "ECP-10276",
       "project_type": "electric",
-      "project_name": "Purchase Two 2 Megawatt Peak Shaving Generators for the Boviet Substation",
+      "project_name": "Purchase of Two 2 Megawatt Peak Shaving Generators for the Boviet Substation",
       "budget_amount": null,
       "budget_amendment": null,
       "completion_target": null,
@@ -20,14 +20,14 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Purchase of generators for the Boviet Substation.",
+      "description": "Purchase of Two 2 Megawatt Peak Shaving Generators for the Boviet Substation",
       "contractor": null,
       "board_action": "approved"
     },
     {
       "project_id": "ECP-10277",
       "project_type": "electric",
-      "project_name": "Build a 60 MVA Distribution Substation Adjacent to Boviet Solar Technologies",
+      "project_name": "Construction of 60 MVA Distribution Substation Adjacent to Boviet Solar Technologies",
       "budget_amount": 12000000,
       "budget_amendment": null,
       "completion_target": null,
@@ -42,7 +42,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Funding to build a new electric substation to allow the Phase II interconnection of Boviet Solar to the electric system.",
+      "description": "Provide funding to build a 60 MVA distribution substation on a parcel adjacent to Boviet Solar Technologies.",
       "contractor": "Substation Enterprises, Inc.",
       "board_action": "recommended award of bid"
     },
@@ -50,7 +50,7 @@
       "project_id": "ECP10219",
       "project_type": "electric",
       "project_name": "Peak Shaving Generator(s) Replacement",
-      "budget_amount": 15500000,
+      "budget_amount": 15000000,
       "budget_amendment": 0,
       "completion_target": "Q3 2027",
       "status": "in_progress",
@@ -158,7 +158,7 @@
       "geometry_hint": "point",
       "description": "Relocation of high-pressure gas facilities.",
       "contractor": null,
-      "board_action": "discussed"
+      "board_action": null
     },
     {
       "project_id": "GCP10101",
@@ -179,7 +179,7 @@
       "geometry_hint": "corridor",
       "description": "Widening of Firetower Road.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "GCP10108",
@@ -200,7 +200,7 @@
       "geometry_hint": "corridor",
       "description": "Widening of Allen Road as part of NCDOT project U-5875.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "GCP10113",
@@ -221,7 +221,7 @@
       "geometry_hint": "corridor",
       "description": "Widening of Evans Street as part of NCDOT project U-2817.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "GCP10114",
@@ -242,7 +242,7 @@
       "geometry_hint": "corridor",
       "description": "Widening of 14th Street as part of NCDOT project U-5917.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "GCP10123",
@@ -261,7 +261,7 @@
       "geometry_hint": "point",
       "description": "Phase II of the Integrity Management Replacement project.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     },
     {
       "project_id": "GCP10128",
@@ -280,7 +280,7 @@
       "geometry_hint": "point",
       "description": "Phase III of the Integrity Management Replacement project.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": null
     }
   ]
 }

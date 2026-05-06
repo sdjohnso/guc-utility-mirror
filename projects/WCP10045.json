@@ -242,6 +242,46 @@
       "date": "2026-04-15",
       "action": "approved",
       "source_file": "2026-04-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": "approved",
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "approved",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "approved",
+      "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "",
+      "source_file": "2026-04-15.json"
     }
   ]
 }

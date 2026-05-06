@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-08-15",
-  "extracted_at": "2026-04-29T11:47:11.394189",
+  "extracted_at": "2026-05-06T11:34:01.967862",
   "projects": [
     {
       "project_id": "WCP10040",
@@ -27,7 +27,7 @@
       "project_name": "Admin HVAC Upgrades Project",
       "budget_amount": 3500000,
       "budget_amendment": 1000000,
-      "completion_target": "July 2025",
+      "completion_target": "August 2025",
       "status": "in_progress",
       "streets": [],
       "from_street": "",
@@ -40,25 +40,6 @@
       "geometry_hint": "point",
       "description": "The Admin HVAC Upgrades Project aims to modernize and replace outdated air conditioning, heating, ventilation, and mechanical equipment and controls for the 2nd and 3rd floors of the Administration Building.",
       "contractor": "Muter Construction, LLC",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP-124",
-      "project_type": "water",
-      "project_name": "Residual Lagoon Improvements",
-      "budget_amount": 1750000,
-      "budget_amendment": 0,
-      "completion_target": "6/30/2026",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "point",
-      "description": "Improvements to the residual lagoon.",
-      "contractor": null,
       "board_action": "approved"
     },
     {
@@ -119,44 +100,6 @@
       "board_action": "approved"
     },
     {
-      "project_id": "WCP10036",
-      "project_type": "water",
-      "project_name": "Elm Street Water Main Relocations",
-      "budget_amount": 575000,
-      "budget_amendment": 0,
-      "completion_target": "1/1/2028",
-      "status": "planned",
-      "streets": [],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "line",
-      "description": "Relocations of water mains along Elm Street.",
-      "contractor": null,
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10037",
-      "project_type": "water",
-      "project_name": "NCDOT Memorial Drive Bridge Water Main Relocation",
-      "budget_amount": 600000,
-      "budget_amendment": 0,
-      "completion_target": "1/1/2026",
-      "status": "planned",
-      "streets": [],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "line",
-      "description": "Relocation of the water main for the Memorial Drive Bridge.",
-      "contractor": null,
-      "board_action": "approved"
-    },
-    {
       "project_id": "WCP10039",
       "project_type": "water",
       "project_name": "Water Main Rehab Phase III",
@@ -170,17 +113,114 @@
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "polygon",
-      "description": "Rehabilitation of water mains in Phase III.",
+      "geometry_hint": "corridor",
+      "description": "Rehabilitation of water mains in the third phase.",
       "contractor": null,
       "board_action": "approved"
+    },
+    {
+      "project_id": "ECP10168",
+      "project_type": "electric",
+      "project_name": "POD #3 to Simpson Substation 115 kV Transmission Loop",
+      "budget_amount": 8600000,
+      "budget_amendment": 0,
+      "completion_target": "6/30/2027",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "line",
+      "description": "Construction of a 115 kV transmission loop from POD #3 to Simpson Substation.",
+      "contractor": null,
+      "board_action": "approved"
+    },
+    {
+      "project_id": "ECP10219",
+      "project_type": "electric",
+      "project_name": "Peak Shaving Generator(s) Replacement",
+      "budget_amount": 15500000,
+      "budget_amendment": 0,
+      "completion_target": "6/30/2027",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "point",
+      "description": "Replacement of peak shaving generators.",
+      "contractor": null,
+      "board_action": "approved"
+    },
+    {
+      "project_id": "ECP10220",
+      "project_type": "electric",
+      "project_name": "Transmission Structure Replacement(s)",
+      "budget_amount": 5292000,
+      "budget_amendment": 0,
+      "completion_target": "6/30/2026",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "point",
+      "description": "Replacement of transmission structures.",
+      "contractor": null,
+      "board_action": "approved"
+    },
+    {
+      "project_id": "ECP10244",
+      "project_type": "electric",
+      "project_name": "Hudson\u2019s Crossroads",
+      "budget_amount": 4000000,
+      "budget_amendment": 0,
+      "completion_target": "6/30/2026",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "point",
+      "description": "Project at Hudson's Crossroads.",
+      "contractor": null,
+      "board_action": "approved"
+    },
+    {
+      "project_id": "WCP10037",
+      "project_type": "water",
+      "project_name": "Elm Street Water Main Relocations",
+      "budget_amount": 375000,
+      "budget_amendment": 0,
+      "completion_target": "1/1/2028",
+      "status": "planned",
+      "streets": [
+        "Elm Street"
+      ],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "point",
+      "description": "Relocations of the water main along Elm Street.",
+      "contractor": null,
+      "board_action": "discussed"
     },
     {
       "project_id": "WCP10043",
       "project_type": "water",
       "project_name": "WTP Lab Upgrades",
       "budget_amount": 1000000,
-      "budget_amendment": null,
+      "budget_amendment": 0,
       "completion_target": "12/31/2025",
       "status": "planned",
       "streets": [],
@@ -192,9 +232,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Upgrades to the laboratory facilities at the Water Treatment Plant.",
+      "description": "Upgrades to the laboratory facilities at the water treatment plant.",
       "contractor": null,
-      "board_action": null
+      "board_action": "approved"
     },
     {
       "project_id": "WCP10044",
@@ -212,59 +252,17 @@
       ],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "corridor",
-      "description": "Extension of the water main to serve the Whitehurst Station area.",
+      "geometry_hint": "line",
+      "description": "Extension of the water main to serve Whitehurst Station.",
       "contractor": null,
-      "board_action": null
-    },
-    {
-      "project_id": "WCP10045",
-      "project_type": "water",
-      "project_name": "COG BUILD Grant-5th Street",
-      "budget_amount": 2650000,
-      "budget_amendment": null,
-      "completion_target": "6/30/2028",
-      "status": "planned",
-      "streets": [
-        "5th Street"
-      ],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "corridor",
-      "description": "Project funded by COG BUILD Grant for improvements along 5th Street.",
-      "contractor": null,
-      "board_action": null
-    },
-    {
-      "project_id": "SCP10221",
-      "project_type": "sewer",
-      "project_name": "Southeast Sewer Service Area Project",
-      "budget_amount": 2500000,
-      "budget_amendment": -205,
-      "completion_target": "10/31/2025",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [
-        "Southeast Sewer Service Area"
-      ],
-      "service_area_name": "Southeast Sewer Service Area",
-      "township": null,
-      "geometry_hint": "polygon",
-      "description": "Improvements to the sewer system in the Southeast Sewer Service Area.",
-      "contractor": null,
-      "board_action": null
+      "board_action": "approved"
     },
     {
       "project_id": "SCP10235",
       "project_type": "sewer",
       "project_name": "Duplex Pump Station Improvements",
       "budget_amount": 500000,
-      "budget_amendment": null,
+      "budget_amendment": 0,
       "completion_target": "6/30/2026",
       "status": "in_progress",
       "streets": [],
@@ -276,12 +274,12 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Improvements to the Duplex Pump Station.",
+      "description": "Improvements to the duplex pump station.",
       "contractor": null,
-      "board_action": null
+      "board_action": "approved"
     },
     {
-      "project_id": "SCP10238",
+      "project_id": "SCP10241",
       "project_type": "sewer",
       "project_name": "WWTP Clarifier Replacement Project",
       "budget_amount": 6000000,
@@ -297,9 +295,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Replacement of clarifiers at the Wastewater Treatment Plant.",
+      "description": "Replacement of clarifiers at the wastewater treatment plant.",
       "contractor": null,
-      "board_action": null
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10099",
@@ -316,9 +314,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Expansion of the LNG facilities.",
+      "description": "Expansion of the LNG facility.",
       "contractor": null,
-      "board_action": null
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10101",
@@ -337,28 +335,7 @@
       "geometry_hint": "point",
       "description": "Relocation of multiple high-pressure gas facilities.",
       "contractor": null,
-      "board_action": null
-    },
-    {
-      "project_id": "GCP10108",
-      "project_type": "gas",
-      "project_name": "Firetower Road Widening",
-      "budget_amount": 1300000,
-      "budget_amendment": null,
-      "completion_target": "6/30/2030",
-      "status": "planned",
-      "streets": [
-        "Firetower Road"
-      ],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "corridor",
-      "description": "Widening of Firetower Road to accommodate gas infrastructure.",
-      "contractor": null,
-      "board_action": null
+      "board_action": "approved"
     }
   ]
 }

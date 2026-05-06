@@ -1,6 +1,6 @@
 {
   "meeting_date": "2026-04-15",
-  "extracted_at": "2026-04-29T12:02:53.250198",
+  "extracted_at": "2026-05-06T11:53:22.554214",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -16,10 +16,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "POD #3 to Simpson Substation 115 kV Transmission Loop",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "ECP10220",
@@ -38,7 +38,7 @@
       "geometry_hint": "point",
       "description": "Transmission Structure Replacement(s)",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "ECP10244",
@@ -57,7 +57,7 @@
       "geometry_hint": "point",
       "description": "Hudson\u2019s Crossroads",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "ECP10248",
@@ -76,7 +76,7 @@
       "geometry_hint": "point",
       "description": "POD Transformer Replacement",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "ECP10261",
@@ -95,7 +95,7 @@
       "geometry_hint": "point",
       "description": "Community Solar Project",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10030",
@@ -111,10 +111,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "polygon",
+      "geometry_hint": "point",
       "description": "Water Distribution System Improvements",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10033",
@@ -133,7 +133,7 @@
       "geometry_hint": "point",
       "description": "Water Treatment Plant Riverbank Stabilization",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10036",
@@ -149,10 +149,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "Elm Street Water Main Relocations",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10037",
@@ -168,10 +168,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "NCDOT Memorial Drive Bridge Water Main Relocation",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10039",
@@ -187,10 +187,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "Water Main Rehab Phase III",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10040",
@@ -209,7 +209,7 @@
       "geometry_hint": "point",
       "description": "WTP Lab Upgrades",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10043",
@@ -225,10 +225,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "Whitehurst Station Water Main Extension",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10044",
@@ -244,10 +244,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "polygon",
+      "geometry_hint": "point",
       "description": "COG BUILD Grant-5th Street",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10045",
@@ -263,10 +263,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "14th Street Widening (NCDOT U-5917)",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10046",
@@ -282,10 +282,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "Allen Road Widening (NCDOT U-5875)",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10047",
@@ -301,10 +301,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "Corey Rd./Worthington Rd. Roundabout (NCDOT W-5702M)",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10048",
@@ -320,10 +320,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "Firetower/Portertown Rd. (NCDOT U-5785/5870)",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10049",
@@ -339,10 +339,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "polygon",
+      "geometry_hint": "point",
       "description": "WTP Lagoon and Impoundment Improvements",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10053",
@@ -358,10 +358,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "NCDOT Evans St. Widening",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10054",
@@ -377,10 +377,10 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "NCDOT Dickinson Ave. Water Improvements",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10055",
@@ -391,14 +391,14 @@
       "completion_target": "7/1/2029",
       "status": "in_progress",
       "streets": [],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "point",
-      "description": "Improvements to the water treatment plant filters.",
-      "contractor": null,
+      "description": "Improvements to the filters at the Water Treatment Plant.",
+      "contractor": "",
       "board_action": "approved"
     },
     {
@@ -410,14 +410,14 @@
       "completion_target": "6/30/2026",
       "status": "in_progress",
       "streets": [],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
       "service_area_name": "Southeast Sewer Service Area",
-      "township": null,
+      "township": "",
       "geometry_hint": "polygon",
-      "description": "Improvements to the sewer service area in the southeast region.",
-      "contractor": null,
+      "description": "Improvements and expansions in the Southeast Sewer Service Area.",
+      "contractor": "",
       "board_action": "approved"
     },
     {
@@ -429,14 +429,14 @@
       "completion_target": "6/30/2027",
       "status": "in_progress",
       "streets": [],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "point",
       "description": "Improvements to the duplex pump station.",
-      "contractor": null,
+      "contractor": "",
       "board_action": "approved"
     },
     {
@@ -448,14 +448,14 @@
       "completion_target": "6/30/2026",
       "status": "in_progress",
       "streets": [],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "point",
-      "description": "Replacement of clarifiers at the wastewater treatment plant.",
-      "contractor": null,
+      "description": "Replacement of clarifiers at the Wastewater Treatment Plant.",
+      "contractor": "",
       "board_action": "approved"
     },
     {
@@ -467,14 +467,14 @@
       "completion_target": "12/31/2026",
       "status": "in_progress",
       "streets": [],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "point",
       "description": "Relocation of multiple high-pressure gas facilities.",
-      "contractor": null,
+      "contractor": "",
       "board_action": "approved"
     },
     {
@@ -488,14 +488,14 @@
       "streets": [
         "Fire Tower Rd."
       ],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "corridor",
       "description": "Widening of Fire Tower Road.",
-      "contractor": null,
+      "contractor": "",
       "board_action": "discussed"
     },
     {
@@ -509,14 +509,14 @@
       "streets": [
         "Allen Rd."
       ],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "corridor",
-      "description": "Widening of Allen Road as part of NCDOT project.",
-      "contractor": null,
+      "description": "Widening of Allen Road as part of NCDOT project U-5875.",
+      "contractor": "",
       "board_action": "approved"
     },
     {
@@ -530,14 +530,14 @@
       "streets": [
         "Evans St."
       ],
-      "from_street": null,
-      "to_street": null,
+      "from_street": "",
+      "to_street": "",
       "landmarks": [],
-      "service_area_name": null,
-      "township": null,
+      "service_area_name": "",
+      "township": "",
       "geometry_hint": "corridor",
-      "description": "Widening of Evans Street as part of NCDOT project.",
-      "contractor": null,
+      "description": "Widening of Evans Street as part of NCDOT project U-2817.",
+      "contractor": "",
       "board_action": "discussed"
     },
     {
@@ -554,8 +554,8 @@
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "point",
-      "description": "Sewer project related to NCDOT work on Allen Rd.",
+      "geometry_hint": "polygon",
+      "description": "Sewer improvements related to NCDOT Allen Rd.",
       "contractor": null,
       "board_action": null
     },
@@ -573,8 +573,8 @@
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "point",
-      "description": "Sewer project related to NCDOT work on Firetower/Portertown Rd.",
+      "geometry_hint": "polygon",
+      "description": "Sewer improvements related to NCDOT Firetower/Portertown Rd.",
       "contractor": null,
       "board_action": null
     },
@@ -592,8 +592,8 @@
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "point",
-      "description": "Sewer project related to NCDOT work on 14th Street.",
+      "geometry_hint": "polygon",
+      "description": "Sewer improvements related to NCDOT 14th Street.",
       "contractor": null,
       "board_action": null
     },
@@ -611,8 +611,8 @@
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "point",
-      "description": "Sewer project related to NCDOT work on Evans St.",
+      "geometry_hint": "polygon",
+      "description": "Sewer improvements related to NCDOT Evans St.",
       "contractor": null,
       "board_action": null
     },

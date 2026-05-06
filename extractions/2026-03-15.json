@@ -1,6 +1,6 @@
 {
   "meeting_date": "2026-03-15",
-  "extracted_at": "2026-04-29T11:59:22.001944",
+  "extracted_at": "2026-05-06T11:50:07.343215",
   "projects": [
     {
       "project_id": "MCP10267",
@@ -17,7 +17,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "polygon",
-      "description": "Implementation of Advanced Metering Infrastructure to support customer growth and maintenance needs.",
+      "description": "Implementation of Advanced Metering Infrastructure (AMI) to support customer growth and maintenance needs.",
       "contractor": "Sensus-Xylem",
       "board_action": "approved"
     },
@@ -36,7 +36,7 @@
         "Boviet Solar Technologies"
       ],
       "service_area_name": null,
-      "township": "Greenville",
+      "township": null,
       "geometry_hint": "point",
       "description": "Funding to build a 60 MVA distribution substation adjacent to Boviet Solar Technologies.",
       "contractor": "Selco Construction",

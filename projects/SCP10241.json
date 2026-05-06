@@ -161,6 +161,42 @@
         "previous_amount": 6000000,
         "new_amount": 3000000,
         "change_amount": 233218
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 3000000,
+        "new_amount": 1191557,
+        "change_amount": -1808443
+      },
+      {
+        "date": "2025-04-15",
+        "previous_amount": 1191557,
+        "new_amount": 3000000,
+        "change_amount": 1808443
+      },
+      {
+        "date": "2025-07-15",
+        "previous_amount": 3000000,
+        "new_amount": 6000000,
+        "change_amount": 730464
+      },
+      {
+        "date": "2025-11-15",
+        "previous_amount": 6000000,
+        "new_amount": 3000000,
+        "change_amount": 233218
+      },
+      {
+        "date": "2025-12-26",
+        "previous_amount": 3000000,
+        "new_amount": 3424000,
+        "change_amount": 424000
+      },
+      {
+        "date": "2026-01-15",
+        "previous_amount": 3424000,
+        "new_amount": 3000000,
+        "change_amount": -424000
       }
     ]
   },
@@ -178,7 +214,8 @@
     "from_street": null,
     "to_street": null,
     "landmarks": [
-      "Bethel"
+      "Bethel",
+      "Wastewater Treatment Plant"
     ],
     "service_area_name": null,
     "township": "Bethel",
@@ -431,6 +468,61 @@
       "date": "2025-11-15",
       "action": "approved",
       "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "approved",
+      "source_file": "2025-01-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "approved",
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "approved",
+      "source_file": "2025-05-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "approved",
+      "source_file": "2025-07-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-11-15",
+      "action": "approved",
+      "source_file": "2025-11-15.json"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "approved",
+      "source_file": "2025-12-26.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
     },
     {
       "date": "2026-02-15",

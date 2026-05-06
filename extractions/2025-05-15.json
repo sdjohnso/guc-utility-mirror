@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-05-15",
-  "extracted_at": "2026-04-29T11:42:38.932071",
+  "extracted_at": "2026-05-06T11:28:10.184618",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -485,14 +485,17 @@
       "budget_amendment": 0,
       "completion_target": "12/31/2031",
       "status": "planned",
-      "streets": [],
+      "streets": [
+        "Firetower Rd.",
+        "Portertown Rd."
+      ],
       "from_street": null,
       "to_street": null,
       "landmarks": [],
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Improvements along Firetower and Portertown Roads as part of NCDOT U-5785/5870.",
+      "description": "Improvements to Firetower and Portertown Roads as part of NCDOT projects U-5785 and U-5870.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -530,7 +533,7 @@
       "service_area_name": "Southeast Sewer Service Area",
       "township": null,
       "geometry_hint": "polygon",
-      "description": "Improvements and expansions in the Southeast Sewer Service Area.",
+      "description": "Improvements and expansions to the Southeast Sewer Service Area.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -618,7 +621,9 @@
       "budget_amendment": 0,
       "completion_target": "6/30/2030",
       "status": "planned",
-      "streets": [],
+      "streets": [
+        "Firetower Road"
+      ],
       "from_street": null,
       "to_street": null,
       "landmarks": [],
@@ -626,25 +631,6 @@
       "township": null,
       "geometry_hint": "corridor",
       "description": "Widening of Firetower Road.",
-      "contractor": null,
-      "board_action": "approved"
-    },
-    {
-      "project_id": "GCP10108",
-      "project_type": "gas",
-      "project_name": "Allen Road Widening (NCDOT U-5875)",
-      "budget_amount": 1000000,
-      "budget_amendment": 0,
-      "completion_target": "6/30/2027",
-      "status": "planned",
-      "streets": [],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "corridor",
-      "description": "Widening of Allen Road as part of NCDOT U-5875.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -665,7 +651,28 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Sewer project associated with the widening of Allen Road.",
+      "description": "Sewer improvements associated with the Allen Road Widening project.",
+      "contractor": null,
+      "board_action": null
+    },
+    {
+      "project_id": "GCP10108",
+      "project_type": "gas",
+      "project_name": "Allen Road Widening (NCDOT U-5875)",
+      "budget_amount": 1000000,
+      "budget_amendment": 1500000,
+      "completion_target": null,
+      "status": "planned",
+      "streets": [
+        "Allen Road"
+      ],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "corridor",
+      "description": "Gas infrastructure improvements related to the Allen Road Widening project.",
       "contractor": null,
       "board_action": null
     },
@@ -686,7 +693,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Gas project associated with the widening of 14th Street.",
+      "description": "Gas line adjustments for the 14th Street Widening project.",
       "contractor": null,
       "board_action": null
     }
