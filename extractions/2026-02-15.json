@@ -1,6 +1,6 @@
 {
   "meeting_date": "2026-02-15",
-  "extracted_at": "2026-05-06T11:48:23.146501",
+  "extracted_at": "2026-05-08T07:34:57.397778",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -17,7 +17,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "line",
-      "description": "POD #3 to Simpson Substation 115 kV Transmission Loop",
+      "description": "Construction of a transmission loop to enhance electric service reliability.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -36,7 +36,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Transmission Structure Replacement(s)",
+      "description": "Replacement of aging transmission structures to ensure safety and reliability.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -55,7 +55,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Hudson\u2019s Crossroads",
+      "description": "Upgrades and improvements at Hudson's Crossroads to enhance service.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -74,7 +74,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "POD Transformer Replacement",
+      "description": "Replacement of transformers to improve electric distribution efficiency.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -93,7 +93,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Community Solar Project",
+      "description": "Development of a community solar project to promote renewable energy.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -102,7 +102,7 @@
       "project_type": "electric",
       "project_name": "10MW Peak Shaving Generator Plant",
       "budget_amount": 13375000,
-      "budget_amendment": -195565,
+      "budget_amendment": 0,
       "completion_target": "8/15/2026",
       "status": "in_progress",
       "streets": [],
@@ -112,7 +112,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "10MW Peak Shaving Generator Plant",
+      "description": "Construction of a generator plant to reduce peak demand on the grid.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -131,7 +131,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Residual Lagoon Improvements",
+      "description": "Improvements to the residual lagoon to enhance water treatment processes.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -149,8 +149,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "Water Distribution System Improvements",
+      "geometry_hint": "polygon",
+      "description": "Improvements to the water distribution system to enhance service delivery.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -161,7 +161,7 @@
       "budget_amount": 1500000,
       "budget_amendment": 0,
       "completion_target": "6/30/2026",
-      "status": "completed",
+      "status": "in_progress",
       "streets": [],
       "from_street": "",
       "to_street": "",
@@ -169,7 +169,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Water Treatment Plant Riverbank Stabilization",
+      "description": "Stabilization of the riverbank to protect the water treatment plant.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -187,8 +187,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "Elm Street Water Main Relocations",
+      "geometry_hint": "line",
+      "description": "Relocation of water mains along Elm Street due to infrastructure changes.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -206,8 +206,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "NCDOT Memorial Drive Bridge Water Main Relocation",
+      "geometry_hint": "line",
+      "description": "Relocation of water mains due to the NCDOT Memorial Drive Bridge project.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -225,8 +225,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "Water Main Rehab Phase III",
+      "geometry_hint": "polygon",
+      "description": "Rehabilitation of water mains to improve service reliability.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -245,7 +245,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "WTP Lab Upgrades",
+      "description": "Upgrades to the water treatment plant laboratory for improved testing capabilities.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -263,8 +263,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "Whitehurst Station Water Main Extension",
+      "geometry_hint": "line",
+      "description": "Extension of water mains to serve the Whitehurst Station area.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -282,8 +282,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "COG BUILD Grant-5th Street",
+      "geometry_hint": "polygon",
+      "description": "Improvements funded by the COG BUILD Grant along 5th Street.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -301,8 +301,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "14th Street Widening (NCDOT U-5917)",
+      "geometry_hint": "line",
+      "description": "Widening of 14th Street as part of the NCDOT project U-5917.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -320,8 +320,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "Allen Road Widening (NCDOT U-5875)",
+      "geometry_hint": "line",
+      "description": "Widening of Allen Road as part of the NCDOT project U-5875.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -340,7 +340,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Corey Rd./Worthington Rd. Roundabout (NCDOT W-5702M)",
+      "description": "Construction of a roundabout at the intersection of Corey Rd. and Worthington Rd.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -358,8 +358,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "Firetower/Portertown Rd. (NCDOT U-5785/5870)",
+      "geometry_hint": "line",
+      "description": "Improvements along Firetower and Portertown Roads as part of NCDOT projects U-5785/5870.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -378,7 +378,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "WTP Lagoon and Impoundment Improvements",
+      "description": "Improvements to the lagoon and impoundment areas at the water treatment plant.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -396,8 +396,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "NCDOT Evans St. Widening",
+      "geometry_hint": "line",
+      "description": "Widening of Evans Street as part of the NCDOT project.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -415,8 +415,8 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
-      "description": "NCDOT Dickinson Ave. Water Improvements",
+      "geometry_hint": "line",
+      "description": "Water improvements along Dickinson Avenue as part of NCDOT projects.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -425,9 +425,9 @@
       "project_type": "water",
       "project_name": "WTP Filter Improvements",
       "budget_amount": 5500000,
-      "budget_amendment": 889417,
+      "budget_amendment": 0,
       "completion_target": "7/1/2029",
-      "status": "in_progress",
+      "status": "planned",
       "streets": [],
       "from_street": null,
       "to_street": null,
@@ -435,9 +435,9 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Improvements to the water treatment plant filters.",
+      "description": "Improvements to the filters at the Water Treatment Plant.",
       "contractor": null,
-      "board_action": "approved"
+      "board_action": "discussed"
     },
     {
       "project_id": "SCP10221",
@@ -454,7 +454,7 @@
       "service_area_name": "Southeast Sewer Service Area",
       "township": null,
       "geometry_hint": "polygon",
-      "description": "Improvements to the sewer service area in the southeast region.",
+      "description": "Project to enhance sewer services in the Southeast area.",
       "contractor": null,
       "board_action": "approved"
     },

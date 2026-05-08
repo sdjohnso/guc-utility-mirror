@@ -65,6 +65,18 @@
         "previous_amount": 550000,
         "new_amount": 325000,
         "change_amount": -225000
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 325000,
+        "new_amount": 550000,
+        "change_amount": 225000
+      },
+      {
+        "date": "2025-06-15",
+        "previous_amount": 550000,
+        "new_amount": 325000,
+        "change_amount": -225000
       }
     ]
   },
@@ -185,6 +197,21 @@
       "date": "2025-04-15",
       "action": null,
       "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
     },
     {
       "date": "2025-03-15",

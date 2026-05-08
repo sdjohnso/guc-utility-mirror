@@ -1,26 +1,7 @@
 {
   "meeting_date": "2026-03-15",
-  "extracted_at": "2026-05-06T11:50:07.343215",
+  "extracted_at": "2026-05-08T07:37:00.769889",
   "projects": [
-    {
-      "project_id": "MCP10267",
-      "project_type": "water",
-      "project_name": "Advanced Meter Infrastructure",
-      "budget_amount": 49000000,
-      "budget_amendment": 0,
-      "completion_target": "6/30/2032",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": null,
-      "to_street": null,
-      "landmarks": [],
-      "service_area_name": null,
-      "township": null,
-      "geometry_hint": "polygon",
-      "description": "Implementation of Advanced Metering Infrastructure (AMI) to support customer growth and maintenance needs.",
-      "contractor": "Sensus-Xylem",
-      "board_action": "approved"
-    },
     {
       "project_id": "ECP10277",
       "project_type": "electric",
@@ -38,8 +19,27 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Funding to build a 60 MVA distribution substation adjacent to Boviet Solar Technologies.",
+      "description": "Provide funding to build a 60 MVA distribution substation on a parcel adjacent to Boviet Solar Technologies.",
       "contractor": "Selco Construction",
+      "board_action": "approved"
+    },
+    {
+      "project_id": "MCP10267",
+      "project_type": "water",
+      "project_name": "Advanced Meter Infrastructure",
+      "budget_amount": 49000000,
+      "budget_amendment": 0,
+      "completion_target": "6/30/2032",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": null,
+      "to_street": null,
+      "landmarks": [],
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "polygon",
+      "description": "Implementation of Advanced Metering Infrastructure (AMI) for customer growth and maintenance needs.",
+      "contractor": "Sensus-Xylem",
       "board_action": "approved"
     },
     {

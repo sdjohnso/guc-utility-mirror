@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-07-15",
-  "extracted_at": "2026-05-06T11:32:57.261915",
+  "extracted_at": "2026-05-08T07:16:36.759096",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -19,7 +19,7 @@
       "geometry_hint": "line",
       "description": "POD #3 to Simpson Substation 115 kV Transmission Loop",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "ECP10218",
@@ -38,7 +38,7 @@
       "geometry_hint": "line",
       "description": "Mt. Pleasant to Wellcome 115 kV Transmission",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "ECP10219",
@@ -57,7 +57,7 @@
       "geometry_hint": "point",
       "description": "Peak Shaving Generator(s) Replacement",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "ECP10220",
@@ -76,26 +76,7 @@
       "geometry_hint": "point",
       "description": "Transmission Structure Replacement(s)",
       "contractor": "",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP-124",
-      "project_type": "water",
-      "project_name": "Residual Lagoon Improvements",
-      "budget_amount": 1750000,
-      "budget_amendment": 0,
-      "completion_target": "6/30/2026",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "point",
-      "description": "Residual Lagoon Improvements",
-      "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10030",
@@ -114,7 +95,7 @@
       "geometry_hint": "polygon",
       "description": "Water Distribution System Improvements",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10033",
@@ -133,7 +114,7 @@
       "geometry_hint": "point",
       "description": "Water Treatment Plant Riverbank Stabilization",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10035",
@@ -152,45 +133,7 @@
       "geometry_hint": "polygon",
       "description": "Bethel Water System Improvements",
       "contractor": "",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10036",
-      "project_type": "water",
-      "project_name": "Elm Street Water Main Relocations",
-      "budget_amount": 575000,
-      "budget_amendment": 0,
-      "completion_target": "1/1/2028",
-      "status": "planned",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "line",
-      "description": "Elm Street Water Main Relocations",
-      "contractor": "",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10037",
-      "project_type": "water",
-      "project_name": "NCDOT Memorial Drive Bridge Water Main Relocation",
-      "budget_amount": 600000,
-      "budget_amendment": 0,
-      "completion_target": "1/1/2026",
-      "status": "planned",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "line",
-      "description": "NCDOT Memorial Drive Bridge Water Main Relocation",
-      "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10039",
@@ -209,7 +152,7 @@
       "geometry_hint": "polygon",
       "description": "Water Main Rehab Phase III",
       "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "WCP10040",
@@ -228,121 +171,7 @@
       "geometry_hint": "point",
       "description": "WTP Lab Upgrades",
       "contractor": "",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10043",
-      "project_type": "water",
-      "project_name": "Whitehurst Station Water Main Extension",
-      "budget_amount": 1300000,
-      "budget_amendment": 0,
-      "completion_target": "7/1/2026",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "line",
-      "description": "Whitehurst Station Water Main Extension",
-      "contractor": "",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10044",
-      "project_type": "water",
-      "project_name": "COG BUILD Grant-5th Street",
-      "budget_amount": 2650000,
-      "budget_amendment": 0,
-      "completion_target": "6/30/2028",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "polygon",
-      "description": "COG BUILD Grant-5th Street",
-      "contractor": "",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10045",
-      "project_type": "water",
-      "project_name": "14th Street Widening (NCDOT U-5917)",
-      "budget_amount": 45000,
-      "budget_amendment": 0,
-      "completion_target": "12/31/2028",
-      "status": "planned",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "line",
-      "description": "14th Street Widening (NCDOT U-5917)",
-      "contractor": "",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10046",
-      "project_type": "water",
-      "project_name": "Allen Road Widening (NCDOT U-5875)",
-      "budget_amount": 310000,
-      "budget_amendment": 0,
-      "completion_target": "12/31/2026",
-      "status": "planned",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "line",
-      "description": "Allen Road Widening (NCDOT U-5875)",
-      "contractor": "",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10047",
-      "project_type": "water",
-      "project_name": "Corey Rd./Worthington Rd. Roundabout (NCDOT W-5702M)",
-      "budget_amount": 150000,
-      "budget_amendment": 0,
-      "completion_target": "12/31/2025",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "point",
-      "description": "Corey Rd./Worthington Rd. Roundabout (NCDOT W-5702M)",
-      "contractor": "",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10048",
-      "project_type": "water",
-      "project_name": "Firetower/Portertown Rd. (NCDOT U-5785/5870)",
-      "budget_amount": 65000,
-      "budget_amendment": 0,
-      "completion_target": "12/31/2025",
-      "status": "planned",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "line",
-      "description": "Firetower/Portertown Rd. (NCDOT U-5785/5870)",
-      "contractor": "",
-      "board_action": "approved"
+      "board_action": ""
     },
     {
       "project_id": "SCP10221",
@@ -416,7 +245,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Relocation of multiple high-pressure gas facilities",
+      "description": "Relocation of high-pressure gas facilities",
       "contractor": null,
       "board_action": "approved"
     },

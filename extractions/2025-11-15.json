@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-11-15",
-  "extracted_at": "2026-05-06T11:39:45.687716",
+  "extracted_at": "2026-05-08T07:24:29.915810",
   "projects": [
     {
       "project_id": "ECP10276",
@@ -39,7 +39,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "line",
-      "description": "POD #3 to Simpson Substation 115 kV Transmission Loop",
+      "description": "Construction of a transmission loop to connect POD #3 to the Simpson Substation.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -58,7 +58,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Replacement of Peak Shaving Generator(s)",
+      "description": "Replacement of peak shaving generators to enhance energy efficiency.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -77,7 +77,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Replacement of Transmission Structures",
+      "description": "Replacement of aging transmission structures to maintain reliability.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -96,7 +96,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Hudson\u2019s Crossroads project",
+      "description": "Improvements at Hudson's Crossroads to enhance service reliability.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -115,7 +115,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Replacement of POD Transformer",
+      "description": "Replacement of transformers at POD to improve capacity.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -134,7 +134,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Community Solar Project",
+      "description": "Development of a community solar project to promote renewable energy.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -153,7 +153,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "10MW Peak Shaving Generator Plant",
+      "description": "Construction of a 10MW generator plant for peak shaving.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -172,7 +172,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Radial Substation Conversion",
+      "description": "Conversion of radial substations to improve service delivery.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -191,7 +191,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Boviet Phase II Substation",
+      "description": "Phase II development of the Boviet Substation.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -210,7 +210,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Distribution Substation Transformer Replacements",
+      "description": "Replacement of distribution substations and transformers.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -229,7 +229,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Improvements to the Water Distribution System",
+      "description": "Improvements to the water distribution system for better service.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -248,7 +248,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Stabilization of the Water Treatment Plant Riverbank",
+      "description": "Stabilization of riverbank to protect the water treatment plant.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -267,7 +267,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Improvements to the Bethel Water System",
+      "description": "Improvements to the Bethel water system for enhanced service.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -286,7 +286,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Rehabilitation of Water Mains in Phase III",
+      "description": "Rehabilitation of water mains to improve service reliability.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -305,7 +305,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Upgrades to the Water Treatment Plant Laboratory",
+      "description": "Upgrades to the water treatment plant laboratory.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -324,26 +324,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Extension of Water Main to Whitehurst Station",
-      "contractor": "",
-      "board_action": "approved"
-    },
-    {
-      "project_id": "WCP10049",
-      "project_type": "water",
-      "project_name": "WTP Lagoon and Impoundment Improvements",
-      "budget_amount": 1500000,
-      "budget_amendment": 0,
-      "completion_target": "6/30/2027",
-      "status": "in_progress",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
-      "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "polygon",
-      "description": "Improvements to the WTP Lagoon and Impoundment",
+      "description": "Extension of water mains to serve the Whitehurst Station area.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -362,7 +343,7 @@
       "service_area_name": "Southeast Sewer Service Area",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Southeast Sewer Service Area Project",
+      "description": "Improvements to the sewer service in the Southeast area.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -437,7 +418,7 @@
       "landmarks": [],
       "service_area_name": null,
       "township": "Bethel",
-      "geometry_hint": "polygon",
+      "geometry_hint": "point",
       "description": "Bethel Wastewater System Improvements",
       "contractor": null,
       "board_action": "approved"
@@ -475,7 +456,7 @@
       "landmarks": [],
       "service_area_name": null,
       "township": null,
-      "geometry_hint": "line",
+      "geometry_hint": "point",
       "description": "Firetower Road Widening",
       "contractor": null,
       "board_action": "approved"

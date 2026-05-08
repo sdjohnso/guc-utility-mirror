@@ -1,6 +1,6 @@
 {
   "meeting_date": "2026-01-15",
-  "extracted_at": "2026-05-06T11:45:37.139377",
+  "extracted_at": "2026-05-08T07:32:59.149345",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -36,7 +36,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Replacement of peak shaving generators to improve energy efficiency.",
+      "description": "Replacement of peak shaving generators to improve efficiency.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -55,7 +55,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Replacement of aging transmission structures to ensure safety and reliability.",
+      "description": "Replacement of aging transmission structures.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -74,7 +74,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Improvements at Hudson\u2019s Crossroads for enhanced service delivery.",
+      "description": "Improvements at Hudson's Crossroads for electric service.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -93,7 +93,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Replacement of transformers to improve power distribution efficiency.",
+      "description": "Replacement of transformers at POD.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -112,7 +112,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Development of a community solar project to promote renewable energy.",
+      "description": "Development of a community solar project.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -131,7 +131,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Improvements to the water distribution system for better service.",
+      "description": "Improvements to the water distribution system.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -150,7 +150,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Stabilization of riverbank to protect the water treatment plant.",
+      "description": "Stabilization of the riverbank at the water treatment plant.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -167,9 +167,9 @@
       "to_street": "",
       "landmarks": [],
       "service_area_name": "",
-      "township": "",
+      "township": "Bethel",
       "geometry_hint": "polygon",
-      "description": "Improvements to the water system in Bethel for enhanced service.",
+      "description": "Improvements to the water system in Bethel.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -188,7 +188,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Rehabilitation of water mains to improve service reliability.",
+      "description": "Rehabilitation of water mains in the system.",
       "contractor": "",
       "board_action": "approved"
     },
@@ -272,7 +272,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening project for Evans St. as part of NCDOT.",
+      "description": "Widening of Evans St. as part of NCDOT project.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -293,7 +293,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Water improvements project for Dickinson Ave. as part of NCDOT.",
+      "description": "Water improvements along Dickinson Ave. as part of NCDOT project.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -302,9 +302,9 @@
       "project_type": "water",
       "project_name": "WTP Filter Improvements",
       "budget_amount": 5500000,
-      "budget_amendment": 0,
+      "budget_amendment": 272616,
       "completion_target": "6/12/2025",
-      "status": "planned",
+      "status": "in_progress",
       "streets": [],
       "from_street": null,
       "to_street": null,
@@ -321,7 +321,7 @@
       "project_type": "sewer",
       "project_name": "Southeast Sewer Service Area Project",
       "budget_amount": 2500000,
-      "budget_amendment": 0,
+      "budget_amendment": 300,
       "completion_target": "6/8/2017",
       "status": "completed",
       "streets": [],
@@ -331,7 +331,7 @@
       "service_area_name": "Southeast Sewer Service Area",
       "township": null,
       "geometry_hint": "polygon",
-      "description": "Project for the Southeast Sewer Service Area.",
+      "description": "Project to enhance the Southeast Sewer Service Area.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -342,7 +342,7 @@
       "budget_amount": 500000,
       "budget_amendment": 0,
       "completion_target": "6/13/2019",
-      "status": "completed",
+      "status": "planned",
       "streets": [],
       "from_street": null,
       "to_street": null,
@@ -359,9 +359,9 @@
       "project_type": "sewer",
       "project_name": "WWTP Clarifier Replacement Project",
       "budget_amount": 6000000,
-      "budget_amendment": 0,
+      "budget_amendment": 377507,
       "completion_target": "8/19/2019",
-      "status": "completed",
+      "status": "in_progress",
       "streets": [],
       "from_street": null,
       "to_street": null,
@@ -369,7 +369,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Replacement project for the Wastewater Treatment Plant clarifier.",
+      "description": "Replacement of clarifiers at the Wastewater Treatment Plant.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -378,7 +378,7 @@
       "project_type": "sewer",
       "project_name": "Bethel Wastewater System Improvements",
       "budget_amount": 3000000,
-      "budget_amendment": 0,
+      "budget_amendment": 2184,
       "completion_target": "4/19/2021",
       "status": "completed",
       "streets": [],
@@ -387,8 +387,8 @@
       "landmarks": [],
       "service_area_name": null,
       "township": "Bethel",
-      "geometry_hint": "point",
-      "description": "Improvements to the Bethel Wastewater System.",
+      "geometry_hint": "polygon",
+      "description": "Improvements to the wastewater system in Bethel.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -407,7 +407,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Expansion project for LNG facilities.",
+      "description": "Expansion of the LNG facilities.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -418,7 +418,7 @@
       "budget_amount": 9500000,
       "budget_amendment": 10380,
       "completion_target": "6/8/2017",
-      "status": "completed",
+      "status": "in_progress",
       "streets": [],
       "from_street": null,
       "to_street": null,
@@ -437,7 +437,7 @@
       "budget_amount": 1300000,
       "budget_amendment": 0,
       "completion_target": "6/8/2017",
-      "status": "completed",
+      "status": "planned",
       "streets": [
         "Firetower Rd."
       ],
@@ -447,7 +447,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening project for Firetower Road.",
+      "description": "Widening of Firetower Road.",
       "contractor": null,
       "board_action": "approved"
     }

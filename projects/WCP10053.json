@@ -53,6 +53,18 @@
         "previous_amount": 1500000,
         "new_amount": 125000,
         "change_amount": -1375000
+      },
+      {
+        "date": "2025-08-15",
+        "previous_amount": 125000,
+        "new_amount": 1500000,
+        "change_amount": 1375000
+      },
+      {
+        "date": "2026-01-15",
+        "previous_amount": 1500000,
+        "new_amount": 125000,
+        "change_amount": -1375000
       }
     ]
   },
@@ -71,7 +83,9 @@
     ],
     "from_street": null,
     "to_street": null,
-    "landmarks": [],
+    "landmarks": [
+      "Water Treatment Plant"
+    ],
     "service_area_name": null,
     "township": null,
     "estimated_radius_miles": 0.25,
@@ -173,6 +187,26 @@
       "date": "2025-10-15",
       "action": null,
       "source_file": "2025-10-15.json"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "approved",
+      "source_file": "2026-01-15.json"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "approved",
+      "source_file": "2026-02-15.json"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "",
+      "source_file": "2026-04-15.json"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
     },
     {
       "date": "2026-01-15",

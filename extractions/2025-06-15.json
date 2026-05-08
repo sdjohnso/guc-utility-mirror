@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-06-15",
-  "extracted_at": "2026-05-06T11:31:26.834639",
+  "extracted_at": "2026-05-08T07:15:15.448716",
   "projects": [
     {
       "project_id": "ECP10168",
@@ -149,7 +149,7 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "point",
+      "geometry_hint": "line",
       "description": "Transmission project from Mt. Pleasant to Wellcome.",
       "contractor": "",
       "board_action": "discussed"
@@ -313,7 +313,7 @@
       "budget_amount": 12000000,
       "budget_amendment": 0,
       "completion_target": "6/30/2027",
-      "status": "planned",
+      "status": "in_progress",
       "streets": [],
       "from_street": "",
       "to_street": "",
@@ -358,7 +358,7 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "polygon",
+      "geometry_hint": "point",
       "description": "Stabilization of the riverbank at the water treatment plant.",
       "contractor": "",
       "board_action": "discussed"
@@ -397,7 +397,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Phase III of the water main rehabilitation.",
+      "description": "Rehabilitation of water mains in Phase III.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -417,6 +417,25 @@
       "township": "",
       "geometry_hint": "polygon",
       "description": "Extension of the water main to Whitehurst Station.",
+      "contractor": "",
+      "board_action": "discussed"
+    },
+    {
+      "project_id": "WCP10044",
+      "project_type": "water",
+      "project_name": "COG BUILD Grant-5th Street",
+      "budget_amount": 2650000,
+      "budget_amendment": 0,
+      "completion_target": "6/30/2028",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "polygon",
+      "description": "5th Street improvements funded by COG BUILD Grant.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -454,7 +473,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "point",
-      "description": "Improvements to duplex pump stations.",
+      "description": "Improvements to the duplex pump station.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -472,7 +491,7 @@
       "landmarks": [],
       "service_area_name": "",
       "township": "",
-      "geometry_hint": "polygon",
+      "geometry_hint": "point",
       "description": "Replacement of clarifiers at the wastewater treatment plant.",
       "contractor": "",
       "board_action": "discussed"
@@ -511,7 +530,7 @@
       "service_area_name": "",
       "township": "",
       "geometry_hint": "polygon",
-      "description": "Improvements to the sewer system for industrial and commercial areas.",
+      "description": "Improvements to the sewer system for industry and commercial.",
       "contractor": "",
       "board_action": "discussed"
     },
@@ -573,6 +592,25 @@
       "board_action": "discussed"
     },
     {
+      "project_id": "SCP10249",
+      "project_type": "sewer",
+      "project_name": "COG BUILD Grant-5th Street",
+      "budget_amount": 1750000,
+      "budget_amendment": 0,
+      "completion_target": "6/30/2028",
+      "status": "in_progress",
+      "streets": [],
+      "from_street": "",
+      "to_street": "",
+      "landmarks": [],
+      "service_area_name": "",
+      "township": "",
+      "geometry_hint": "polygon",
+      "description": "5th Street improvements funded by COG BUILD Grant.",
+      "contractor": "",
+      "board_action": "discussed"
+    },
+    {
       "project_id": "GCP10099",
       "project_type": "gas",
       "project_name": "High-Pressure Multiple Gas Facilities Relocation",
@@ -581,14 +619,14 @@
       "completion_target": "12/30/2025",
       "status": "in_progress",
       "streets": [],
-      "from_street": "",
-      "to_street": "",
+      "from_street": null,
+      "to_street": null,
       "landmarks": [],
-      "service_area_name": "",
-      "township": "",
+      "service_area_name": null,
+      "township": null,
       "geometry_hint": "point",
       "description": "Relocation of high-pressure gas facilities.",
-      "contractor": "",
+      "contractor": null,
       "board_action": "discussed"
     },
     {
@@ -599,16 +637,18 @@
       "budget_amendment": 0,
       "completion_target": "6/30/2030",
       "status": "planned",
-      "streets": [],
-      "from_street": "",
-      "to_street": "",
+      "streets": [
+        "Firetower Road"
+      ],
+      "from_street": null,
+      "to_street": null,
       "landmarks": [],
-      "service_area_name": "",
-      "township": "",
-      "geometry_hint": "line",
+      "service_area_name": null,
+      "township": null,
+      "geometry_hint": "corridor",
       "description": "Widening of Firetower Road.",
-      "contractor": "",
-      "board_action": "discussed"
+      "contractor": null,
+      "board_action": "approved"
     },
     {
       "project_id": "GCP10113",
@@ -665,7 +705,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Improvements to the gas system for industrial and commercial use.",
+      "description": "Improvements to the gas system for industrial and commercial customers.",
       "contractor": null,
       "board_action": "approved"
     },

@@ -1,6 +1,6 @@
 {
   "meeting_date": "2025-02-15",
-  "extracted_at": "2026-05-06T11:18:03.761063",
+  "extracted_at": "2026-05-08T06:56:47.027832",
   "projects": [
     {
       "project_id": "WCP10043",
@@ -36,7 +36,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "polygon",
-      "description": "The project is funded by a $5 million grant from the American Rescue Plan Act for the Water Main Rehabilitation Phase III.",
+      "description": "Water Main Rehabilitation Phase III project funded by American Rescue Plan Act grant",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -55,7 +55,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Relocation of multiple gas facilities to accommodate infrastructure improvements.",
+      "description": "Relocation of multiple gas facilities to improve service reliability.",
       "contractor": null,
       "board_action": "discussed"
     },
@@ -76,7 +76,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "corridor",
-      "description": "Widening of Firetower Road to improve traffic flow and safety.",
+      "description": "Widening of Firetower Road to accommodate increased traffic.",
       "contractor": null,
       "board_action": "approved"
     },
@@ -158,7 +158,7 @@
       "service_area_name": null,
       "township": null,
       "geometry_hint": "point",
-      "description": "Phase II of the Integrity Management Replacement project to enhance gas system safety.",
+      "description": "Phase II of the Integrity Management Replacement project.",
       "contractor": null,
       "board_action": "approved"
     },

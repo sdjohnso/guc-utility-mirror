@@ -89,6 +89,24 @@
         "previous_amount": 3244000,
         "new_amount": 1534240,
         "change_amount": -1709760
+      },
+      {
+        "date": "2025-03-15",
+        "previous_amount": 1534240,
+        "new_amount": 2861650,
+        "change_amount": 1327410
+      },
+      {
+        "date": "2025-06-15",
+        "previous_amount": 2861650,
+        "new_amount": 3244000,
+        "change_amount": 382350
+      },
+      {
+        "date": "2026-04-15",
+        "previous_amount": 3244000,
+        "new_amount": 1534240,
+        "change_amount": -1709760
       }
     ]
   },
@@ -208,6 +226,26 @@
       "date": "2025-04-15",
       "action": null,
       "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2026-04-15",
+      "action": null,
+      "source_file": "2026-04-15.json"
+    },
+    {
+      "date": "2025-03-15",
+      "action": null,
+      "source_file": "2025-03-15.json"
+    },
+    {
+      "date": "2025-04-15",
+      "action": null,
+      "source_file": "2025-04-15.json"
+    },
+    {
+      "date": "2025-06-15",
+      "action": "discussed",
+      "source_file": "2025-06-15.json"
     },
     {
       "date": "2026-04-15",

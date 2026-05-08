@@ -83,6 +83,18 @@
         "previous_amount": 3500000,
         "new_amount": 2500000,
         "change_amount": -1000000
+      },
+      {
+        "date": "2025-08-15",
+        "previous_amount": 2500000,
+        "new_amount": 3500000,
+        "change_amount": 1000000
+      },
+      {
+        "date": "2025-09-15",
+        "previous_amount": 3500000,
+        "new_amount": 2500000,
+        "change_amount": -1000000
       }
     ]
   },
@@ -114,6 +126,16 @@
   "first_seen": "2025-08-15",
   "last_updated": "2025-09-15",
   "meeting_references": [
+    {
+      "date": "2025-08-15",
+      "action": "approved",
+      "source_file": "2025-08-15.json"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "approved",
+      "source_file": "2025-09-15.json"
+    },
     {
       "date": "2025-08-15",
       "action": "approved",
